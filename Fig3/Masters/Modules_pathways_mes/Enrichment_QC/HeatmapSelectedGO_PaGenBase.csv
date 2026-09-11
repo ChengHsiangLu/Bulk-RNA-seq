@@ -1,0 +1,21 @@
+GO,Description,_LogP_modules_mes_black_sorted_top300,_LogP_modules_mes_blue_sorted_top300,_LogP_modules_mes_green_sorted_top300,_LogP_modules_mes_grey_sorted_top300,_LogP_modules_mes_pink_sorted_top300,_LogP_modules_mes_red_sorted_top300
+PGB:00026,Cell-specific: CD71+ EarlyErythroid,0.0,0.0,-3.1842825456794617,0.0,0.0,0.0
+PGB:00120,Cell-specific: Cardiac Myocytes,0.0,-4.5425926353045325,-8.112410675504409,0.0,0.0,0.0
+PGB:00067,Cell-specific: Brain cell,0.0,-2.3536697616554054,-2.3536697616554054,0.0,-3.275203940961488,-2.3536697616554054
+PGB:00014,Cell-specific: DRG,0.0,0.0,0.0,0.0,-2.682332296932551,0.0
+PGB:00095,Cell-specific: LNCAP,0.0,0.0,0.0,0.0,-2.206111941497041,0.0
+PGB:00073,Tissue-specific: salivary gland,0.0,0.0,0.0,0.0,-2.458202947582647,0.0
+PGB:00034,Cell-specific: OVR278E,0.0,0.0,0.0,-2.0191364475774383,0.0,0.0
+PGB:00046,Cell-specific: 721B lymphoblasts,-3.6086976736474874,0.0,0.0,0.0,0.0,0.0
+PGB:00101,Tissue-specific: Colorectal adenocarcinoma,-3.145456029042195,0.0,0.0,0.0,0.0,0.0
+PGB:00087,Cell-specific: Lymphoma burkitts Raji,-5.812726933145406,0.0,0.0,0.0,0.0,0.0
+PGB:00019,Cell-specific: H1-hesc,0.0,-2.275306018031726,0.0,0.0,0.0,0.0
+PGB:00086,Cell-specific: Lymphoma burkitts Daudi,0.0,-2.9198257097430593,0.0,0.0,0.0,0.0
+PGB:00052,Cell-specific: HELA,0.0,-2.5532682139908465,0.0,0.0,0.0,0.0
+PGB:00137,Cell-specific: LN18,0.0,-3.825093432959225,0.0,0.0,0.0,0.0
+PGB:00188,Cell-specific: GM2313,0.0,-4.485720314335296,0.0,0.0,0.0,0.0
+PGB:00049,Cell-specific: Adipocyte,0.0,-3.20199116804639,0.0,0.0,-3.9932797357468512,0.0
+PGB:00041,Tissue-specific: Blood,-3.8305792513556822,-13.389500897952285,0.0,0.0,0.0,0.0
+PGB:00018,Tissue-specific: lung,-2.363582973742154,-6.812714666051039,0.0,0.0,0.0,0.0
+PGB:00011,Tissue-specific: spleen,-5.515561774094189,-3.8024165278607014,0.0,0.0,0.0,0.0
+PGB:00015,Tissue-specific: Smooth Muscle,-9.310165694957329,-7.087064462481992,-6.044018849275033,0.0,0.0,-2.4364502888634263

@@ -1,0 +1,44 @@
+Network,Annotation
+modules_mes_black_sorted_top300,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-44.6;R-HSA-1280215|Cytokine Signaling in Immune system|-43.0;R-HSA-449147|Signaling by Interleukins|-38.4
+modules_mes_black_sorted_top300_MCODE_ALL,R-HSA-9020702|Interleukin-1 signaling|-37.5;R-HSA-5688426|Deubiquitination|-35.0;R-HSA-446652|Interleukin-1 family signaling|-34.8
+modules_mes_black_sorted_top300_SUB1_MCODE_1,R-HSA-1169091|Activation of NF-kappaB in B cells|-43.9;R-HSA-2871837|FCERI mediated NF-kB activation|-42.2;R-HSA-1168372|Downstream signaling events of B Cell Receptor (BCR)|-42.1
+modules_mes_black_sorted_top300_SUB1_MCODE_2,GO:0043122|regulation of canonical NF-kappaB signal transduction|-18.6;R-HSA-73887|Death Receptor Signaling|-15.7;hsa04064|NF-kappa B signaling pathway|-14.4
+modules_mes_black_sorted_top300_SUB1_MCODE_3,GO:0140888|interferon-mediated signaling pathway|-11.8;WP4197|Immune response to tuberculosis|-10.8;GO:0045087|innate immune response|-10.3
+modules_mes_blue_sorted_top300,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-100.0;M5911|HALLMARK INTERFERON ALPHA RESPONSE|-89.5;GO:0045087|innate immune response|-56.2
+modules_mes_blue_sorted_top300_MCODE_ALL,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-59.7;R-HSA-909733|Interferon alpha/beta signaling|-58.1;R-HSA-1280215|Cytokine Signaling in Immune system|-52.9
+modules_mes_blue_sorted_top300_SUB1_MCODE_1,R-HSA-909733|Interferon alpha/beta signaling|-72.3;R-HSA-913531|Interferon Signaling|-56.0;R-HSA-1280215|Cytokine Signaling in Immune system|-43.0
+modules_mes_blue_sorted_top300_SUB1_MCODE_2,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-11.0;R-HSA-449147|Signaling by Interleukins|-10.1;R-HSA-446652|Interleukin-1 family signaling|-9.8
+modules_mes_blue_sorted_top300_SUB1_MCODE_3,R-HSA-375276|Peptide ligand-binding receptors|-28.5;R-HSA-418594|G alpha (i) signalling events|-25.8;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-25.5
+modules_mes_blue_sorted_top300_SUB1_MCODE_4,R-HSA-913531|Interferon Signaling|-11.5;R-HSA-936440|Negative regulators of DDX58/IFIH1 signaling|-10.3;GO:0032020|ISG15-protein conjugation|-9.8
+modules_mes_blue_sorted_top300_SUB1_MCODE_5,GO:0006887|exocytosis|-8.4;GO:0032940|secretion by cell|-7.5;GO:0140352|export from cell|-7.2
+modules_mes_green_sorted_top300,R-HSA-446203|Asparagine N-linked glycosylation|-26.6;GO:0048193|Golgi vesicle transport|-22.9;R-HSA-199991|Membrane Trafficking|-21.8
+modules_mes_green_sorted_top300_MCODE_ALL,R-HSA-199977|ER to Golgi Anterograde Transport|-29.5;R-HSA-446203|Asparagine N-linked glycosylation|-28.4;R-HSA-948021|Transport to the Golgi and subsequent modification|-27.8
+modules_mes_green_sorted_top300_SUB1_MCODE_1,R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-34.0;R-HSA-6807878|COPI-mediated anterograde transport|-33.9;R-HSA-6811442|Intra-Golgi and retrograde Golgi-to-ER traffic|-32.9
+modules_mes_green_sorted_top300_SUB1_MCODE_2,hsa04814|Motor proteins|-5.7;R-HSA-9725370|Signaling by ALK fusions and activated point mutants|-5.6;R-HSA-9700206|Signaling by ALK in cancer|-5.6
+modules_mes_green_sorted_top300_SUB1_MCODE_3,R-HSA-2022870|Chondroitin sulfate biosynthesis|-10.0;M5930|HALLMARK EPITHELIAL MESENCHYMAL TRANSITION|-9.9;R-HSA-1793185|Chondroitin sulfate/dermatan sulfate metabolism|-8.3
+modules_mes_green_sorted_top300_SUB1_MCODE_4,GO:0030036|actin cytoskeleton organization|-7.4;GO:0030029|actin filament-based process|-7.2;GO:0007015|actin filament organization|-4.6
+modules_mes_green_sorted_top300_SUB1_MCODE_5,R-HSA-204005|COPII-mediated vesicle transport|-16.0;R-HSA-5694530|Cargo concentration in the ER|-14.2;R-HSA-199977|ER to Golgi Anterograde Transport|-13.8
+modules_mes_green_sorted_top300_SUB1_MCODE_6,GO:0045047|protein targeting to ER|-14.2;GO:0072599|establishment of protein localization to endoplasmic reticulum|-14.0;GO:0070972|protein localization to endoplasmic reticulum|-13.1
+modules_mes_green_sorted_top300_SUB1_MCODE_7,R-HSA-446353|Cell-extracellular matrix interactions|-9.2;GO:0097435|supramolecular fiber organization|-6.8;R-HSA-446728|Cell junction organization|-6.7
+modules_mes_green_sorted_top300_SUB1_MCODE_8,GO:0022411|cellular component disassembly|-5.2;GO:0006412|translation|-5.1;GO:0043043|peptide biosynthetic process|-5.0
+modules_mes_grey_sorted_top300,GO:0051301|cell division|-11.2;GO:0000278|mitotic cell cycle|-10.2;GO:1903047|mitotic cell cycle process|-9.7
+modules_mes_grey_sorted_top300_MCODE_ALL,GO:0051301|cell division|-14.2;GO:1903047|mitotic cell cycle process|-12.8;GO:0010564|regulation of cell cycle process|-12.2
+modules_mes_grey_sorted_top300_SUB1_MCODE_1,R-HSA-774815|Nucleosome assembly|-6.0;R-HSA-606279|Deposition of new CENPA-containing nucleosomes at the centromere|-6.0;R-HSA-141424|Amplification of signal from the kinetochores|-5.6
+modules_mes_grey_sorted_top300_SUB1_MCODE_2,M129|PID PLK1 PATHWAY|-6.9;GO:1902850|microtubule cytoskeleton organization involved in mitosis|-5.6;GO:0006260|DNA replication|-5.0
+modules_mes_grey_sorted_top300_SUB1_MCODE_3,R-HSA-983189|Kinesins|-12.9;R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-11.7;R-HSA-8856688|Golgi-to-ER retrograde transport|-11.0
+modules_mes_grey_sorted_top300_SUB1_MCODE_4,M279|PID RB 1PATHWAY|-6.7;WP2446|Retinoblastoma gene in cancer|-6.3
+modules_mes_grey_sorted_top300_SUB1_MCODE_5,"R-HSA-72163|mRNA Splicing - Major Pathway|-6.5;R-HSA-72172|mRNA Splicing|-6.5;GO:0000398|mRNA splicing, via spliceosome|-6.1"
+modules_mes_pink_sorted_top300,GO:0048568|embryonic organ development|-9.9;GO:0048598|embryonic morphogenesis|-9.5;GO:0048562|embryonic organ morphogenesis|-9.3
+modules_mes_pink_sorted_top300_MCODE_ALL,R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-7.3;R-HSA-9617629|Regulation of FOXO transcriptional activity by acetylation|-6.7;R-HSA-1989781|PPARA activates gene expression|-6.6
+modules_mes_pink_sorted_top300_SUB1_MCODE_1,GO:0002183|cytoplasmic translational initiation|-6.4;R-HSA-72649|Translation initiation complex formation|-5.6;R-HSA-72702|Ribosomal scanning and start codon recognition|-5.6
+modules_mes_pink_sorted_top300_SUB1_MCODE_2,R-HSA-4641262|Disassembly of the destruction complex and recruitment of AXIN to the membrane|-6.5;GO:2001233|regulation of apoptotic signaling pathway|-4.6;hsa04150|mTOR signaling pathway|-4.3
+modules_mes_pink_sorted_top300_SUB1_MCODE_3,R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-12.8;R-HSA-1989781|PPARA activates gene expression|-12.1;R-HSA-400206|Regulation of lipid metabolism by PPARalpha|-12.1
+modules_mes_pink_sorted_top300_SUB1_MCODE_4,GO:0042073|intraciliary transport|-8.4;R-HSA-5620924|Intraflagellar transport|-8.3;WP5234|Bardet Biedl syndrome|-7.6
+modules_mes_red_sorted_top300,M5930|HALLMARK EPITHELIAL MESENCHYMAL TRANSITION|-15.9;GO:0030036|actin cytoskeleton organization|-12.8;M160|PID AVB3 INTEGRIN PATHWAY|-12.3
+modules_mes_red_sorted_top300_MCODE_ALL,M160|PID AVB3 INTEGRIN PATHWAY|-16.9;GO:0097435|supramolecular fiber organization|-15.9;M3005|NABA COLLAGENS|-14.7
+modules_mes_red_sorted_top300_SUB1_MCODE_1,GO:0001503|ossification|-7.8;GO:0001649|osteoblast differentiation|-7.1;WP2839|Hair follicle development organogenesis part 2 of 3|-6.9
+modules_mes_red_sorted_top300_SUB1_MCODE_2,GO:0030036|actin cytoskeleton organization|-6.7;GO:0030029|actin filament-based process|-6.4;GO:0007015|actin filament organization|-6.1
+modules_mes_red_sorted_top300_SUB1_MCODE_3,M3005|NABA COLLAGENS|-23.0;R-HSA-8948216|Collagen chain trimerization|-23.0;M198|PID SYNDECAN 1 PATHWAY|-22.8
+modules_mes_red_sorted_top300_SUB1_MCODE_4,R-HSA-6807878|COPI-mediated anterograde transport|-17.4;R-HSA-199977|ER to Golgi Anterograde Transport|-16.1;R-HSA-948021|Transport to the Golgi and subsequent modification|-15.5
+modules_mes_red_sorted_top300_SUB1_MCODE_5,R-HSA-445355|Smooth Muscle Contraction|-7.5;GO:0030239|myofibril assembly|-6.9;GO:0055002|striated muscle cell development|-6.9
+modules_mes_red_sorted_top300_SUB1_MCODE_6,R-HSA-936837|Ion transport by P-type ATPases|-8.2;R-HSA-983712|Ion channel transport|-6.6;GO:0006874|intracellular calcium ion homeostasis|-6.5

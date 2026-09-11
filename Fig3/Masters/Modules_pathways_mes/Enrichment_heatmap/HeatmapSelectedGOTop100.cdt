@@ -1,0 +1,103 @@
+GID	GENE	NAME	GWEIGHT	modules_mes_black_sorted_top300	modules_mes_blue_sorted_top300	modules_mes_green_sorted_top300	modules_mes_red_sorted_top300	modules_mes_grey_sorted_top300	modules_mes_pink_sorted_top300
+AID				ARRY1X	ARRY2X	ARRY3X	ARRY6X	ARRY4X	ARRY5X
+EWEIGHT				1	1	1	1	1	1
+GENE97X	R-HSA-1169410	R-HSA-1169410: Antiviral mechanism by IFN-stimulated genes	1	-0.000	0.698	-0.000	-0.000	-0.000	-0.000
+GENE47X	GO:0002832	GO:0002832: negative regulation of response to biotic stimulus	1	-0.000	0.994	-0.000	-0.000	-0.000	-0.000
+GENE50X	GO:0002460	GO:0002460: adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1	-0.000	0.557	-0.000	-0.000	-0.000	-0.000
+GENE34X	hsa04612	hsa04612: Antigen processing and presentation	1	-0.000	0.538	-0.000	-0.000	0.196	-0.000
+GENE79X	M5891	M5891: HALLMARK HYPOXIA	1	-0.000	0.120	-0.000	-0.000	0.265	-0.000
+GENE76X	GO:0051336	GO:0051336: regulation of hydrolase activity	1	0.339	0.311	0.103	-0.000	-0.000	0.185
+GENE82X	GO:0010720	GO:0010720: positive regulation of cell development	1	0.186	0.244	0.135	-0.000	-0.000	0.136
+GENE24X	GO:1901699	GO:1901699: cellular response to nitrogen compound	1	0.413	0.183	-0.000	-0.000	-0.000	0.118
+GENE27X	WP2882	WP2882: Nuclear receptors meta pathway	1	0.385	0.118	-0.000	-0.000	-0.000	0.146
+GENE42X	GO:0008285	GO:0008285: negative regulation of cell population proliferation	1	0.219	0.410	-0.000	-0.000	-0.000	0.133
+GENE53X	GO:0043068	GO:0043068: positive regulation of programmed cell death	1	0.492	0.356	-0.000	-0.000	-0.000	0.137
+GENE96X	GO:0019882	GO:0019882: antigen processing and presentation	1	0.121	0.840	-0.000	-0.000	-0.000	-0.000
+GENE75X	WP3858	WP3858: Toll like receptor signaling related to MyD88	1	0.543	0.181	-0.000	-0.000	-0.000	-0.000
+GENE58X	GO:2001233	GO:2001233: regulation of apoptotic signaling pathway	1	0.542	0.247	-0.000	-0.000	-0.000	-0.000
+GENE67X	hsa04217	hsa04217: Necroptosis	1	0.790	0.225	-0.000	-0.000	-0.000	-0.000
+GENE33X	GO:0052547	GO:0052547: regulation of peptidase activity	1	0.316	0.279	-0.000	-0.000	-0.000	-0.000
+GENE49X	M5902	M5902: HALLMARK APOPTOSIS	1	0.355	0.355	-0.000	-0.000	-0.000	-0.000
+GENE20X	M5947	M5947: HALLMARK IL2 STAT5 SIGNALING	1	0.225	0.348	-0.000	-0.000	-0.000	-0.000
+GENE98X	GO:0034340	GO:0034340: response to type I interferon	1	0.240	0.565	-0.000	-0.000	-0.000	-0.000
+GENE84X	M5921	M5921: HALLMARK COMPLEMENT	1	0.224	0.860	-0.000	-0.000	-0.000	-0.000
+GENE65X	M5897	M5897: HALLMARK IL6 JAK STAT3 SIGNALING	1	0.280	0.772	-0.000	-0.000	-0.000	-0.000
+GENE61X	hsa05171	hsa05171: Coronavirus disease - COVID-19	1	0.270	0.955	-0.000	-0.000	-0.000	-0.000
+GENE2X	hsa05323	hsa05323: Rheumatoid arthritis	1	0.220	0.553	-0.000	-0.000	-0.000	-0.000
+GENE38X	WP619	WP619: Type II interferon signaling	1	0.225	0.749	-0.000	-0.000	-0.000	-0.000
+GENE63X	WP5115	WP5115: Network map of SARS CoV 2 signaling pathway	1	0.325	1.000	-0.000	-0.000	-0.000	-0.000
+GENE88X	GO:0070663	GO:0070663: regulation of leukocyte proliferation	1	0.395	0.622	-0.000	-0.000	-0.000	-0.000
+GENE69X	WP4197	WP4197: Immune response to tuberculosis	1	0.362	0.531	-0.000	-0.000	-0.000	-0.000
+GENE19X	GO:0043123	GO:0043123: positive regulation of canonical NF-kappaB signal transduction	1	0.382	0.524	-0.000	-0.000	-0.000	-0.000
+GENE40X	GO:0034341	GO:0034341: response to type II interferon	1	0.409	0.633	-0.000	-0.000	-0.000	-0.000
+GENE39X	GO:0071396	GO:0071396: cellular response to lipid	1	0.562	0.450	-0.000	-0.000	-0.000	-0.000
+GENE90X	GO:0051090	GO:0051090: regulation of DNA-binding transcription factor activity	1	0.554	0.357	-0.000	-0.000	-0.000	-0.000
+GENE91X	GO:0050727	GO:0050727: regulation of inflammatory response	1	0.552	0.512	-0.000	-0.000	-0.000	-0.000
+GENE77X	hsa05167	hsa05167: Kaposi sarcoma-associated herpesvirus infection	1	0.817	0.546	-0.000	-0.000	-0.000	-0.000
+GENE57X	GO:0050865	GO:0050865: regulation of cell activation	1	0.668	0.591	-0.000	-0.000	-0.000	-0.000
+GENE11X	hsa04060	hsa04060: Cytokine-cytokine receptor interaction	1	0.721	0.532	-0.000	-0.000	-0.000	-0.000
+GENE15X	M5950	M5950: HALLMARK ALLOGRAFT REJECTION	1	0.692	0.692	-0.000	-0.000	-0.000	-0.000
+GENE81X	GO:0002831	GO:0002831: regulation of response to biotic stimulus	1	0.790	1.000	-0.000	-0.000	-0.000	-0.000
+GENE52X	GO:0032103	GO:0032103: positive regulation of response to external stimulus	1	0.740	1.000	-0.000	-0.000	-0.000	-0.000
+GENE46X	GO:0009617	GO:0009617: response to bacterium	1	0.671	1.000	-0.000	-0.000	-0.000	-0.000
+GENE28X	M5913	M5913: HALLMARK INTERFERON GAMMA RESPONSE	1	0.747	1.000	-0.000	-0.000	-0.000	-0.000
+GENE31X	M5932	M5932: HALLMARK INFLAMMATORY RESPONSE	1	0.978	1.000	-0.000	-0.000	-0.000	-0.000
+GENE44X	GO:0019221	GO:0019221: cytokine-mediated signaling pathway	1	1.000	0.829	-0.000	-0.000	-0.000	-0.000
+GENE94X	hsa05169	hsa05169: Epstein-Barr virus infection	1	1.000	0.743	-0.000	-0.000	-0.000	-0.000
+GENE7X	M5890	M5890: HALLMARK TNFA SIGNALING VIA NFKB	1	1.000	1.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	GO:0006954	GO:0006954: inflammatory response	1	1.000	1.000	-0.000	-0.000	-0.000	-0.000
+GENE6X	hsa04145	hsa04145: Phagosome	1	0.119	0.369	0.192	-0.000	-0.000	-0.000
+GENE45X	R-HSA-449147	R-HSA-449147: Signaling by Interleukins	1	1.000	0.624	0.105	-0.000	-0.000	-0.000
+GENE86X	R-HSA-1280215	R-HSA-1280215: Cytokine Signaling in Immune system	1	1.000	1.000	0.113	-0.000	-0.000	-0.000
+GENE25X	GO:0048871	GO:0048871: multicellular organismal-level homeostasis	1	0.277	0.277	0.149	-0.000	-0.000	-0.000
+GENE60X	GO:0071496	GO:0071496: cellular response to external stimulus	1	0.299	0.263	0.139	-0.000	-0.000	-0.000
+GENE9X	GO:0001775	GO:0001775: cell activation	1	0.483	0.774	0.196	-0.000	-0.000	-0.000
+GENE13X	R-HSA-9824446	R-HSA-9824446: Viral Infection Pathways	1	0.810	0.485	0.157	-0.000	-0.000	-0.000
+GENE21X	GO:0001934	GO:0001934: positive regulation of protein phosphorylation	1	0.520	0.288	0.112	-0.000	-0.000	-0.000
+GENE30X	GO:0008283	GO:0008283: cell population proliferation	1	0.231	0.160	0.138	-0.000	0.185	0.139
+GENE10X	GO:0097190	GO:0097190: apoptotic signaling pathway	1	0.347	0.386	-0.000	-0.000	0.177	-0.000
+GENE74X	WP5322	WP5322: CKAP4 signaling pathway map	1	0.241	0.153	-0.000	-0.000	0.155	-0.000
+GENE83X	GO:0045596	GO:0045596: negative regulation of cell differentiation	1	0.191	0.147	-0.000	0.147	-0.000	0.294
+GENE8X	GO:0030335	GO:0030335: positive regulation of cell migration	1	0.486	0.261	-0.000	0.206	-0.000	0.158
+GENE99X	hsa05200	hsa05200: Pathways in cancer	1	0.685	0.152	-0.000	0.176	-0.000	0.203
+GENE18X	GO:1902532	GO:1902532: negative regulation of intracellular signal transduction	1	0.481	0.178	-0.000	0.132	-0.000	0.112
+GENE22X	GO:0043408	GO:0043408: regulation of MAPK cascade	1	0.522	0.193	-0.000	0.107	-0.000	0.170
+GENE41X	GO:0035239	GO:0035239: tube morphogenesis	1	0.165	0.122	0.380	0.188	-0.000	0.293
+GENE72X	GO:0007167	GO:0007167: enzyme-linked receptor protein signaling pathway	1	0.188	0.101	0.120	0.141	-0.000	0.357
+GENE71X	WP5087	WP5087: Pleural mesothelioma	1	0.459	0.117	0.117	0.166	-0.000	0.117
+GENE95X	GO:0080135	GO:0080135: regulation of cellular response to stress	1	0.332	0.129	0.129	0.129	-0.000	0.197
+GENE23X	R-HSA-109582	R-HSA-109582: Hemostasis	1	0.164	0.164	0.239	0.142	0.144	-0.000
+GENE5X	R-HSA-1280218	R-HSA-1280218: Adaptive Immune System	1	0.849	0.809	0.225	0.157	-0.000	-0.000
+GENE1X	WP5353	WP5353: A network map of Macrophage stimulating protein MSP signaling	1	0.238	0.143	0.102	0.102	-0.000	-0.000
+GENE54X	R-HSA-382551	R-HSA-382551: Transport of small molecules	1	0.384	0.149	0.149	0.149	-0.000	-0.000
+GENE59X	hsa05132	hsa05132: Salmonella infection	1	0.374	0.219	0.152	0.184	-0.000	-0.000
+GENE87X	R-HSA-9824443	R-HSA-9824443: Parasitic Infection Pathways	1	0.220	0.220	0.111	0.144	-0.000	-0.000
+GENE17X	M5930	M5930: HALLMARK EPITHELIAL MESENCHYMAL TRANSITION	1	0.347	0.187	0.692	0.747	-0.000	-0.000
+GENE55X	GO:0098609	GO:0098609: cell-cell adhesion	1	0.148	0.104	0.197	0.344	-0.000	-0.000
+GENE56X	GO:0033365	GO:0033365: protein localization to organelle	1	0.187	-0.000	0.124	0.210	0.107	-0.000
+GENE62X	R-HSA-73887	R-HSA-73887: Death Receptor Signaling	1	0.685	-0.000	-0.000	0.118	-0.000	-0.000
+GENE93X	hsa05418	hsa05418: Fluid shear stress and atherosclerosis	1	0.390	0.129	-0.000	0.206	-0.000	-0.000
+GENE85X	GO:0007346	GO:0007346: regulation of mitotic cell cycle	1	-0.000	-0.000	-0.000	-0.000	0.297	0.156
+GENE32X	GO:0051640	GO:0051640: organelle localization	1	-0.000	-0.000	0.636	-0.000	0.286	-0.000
+GENE70X	WP3888	WP3888: VEGFA VEGFR2 signaling	1	0.321	-0.000	0.505	0.143	-0.000	0.120
+GENE48X	GO:0009611	GO:0009611: response to wounding	1	0.174	-0.000	0.363	0.100	-0.000	-0.000
+GENE3X	R-HSA-2262752	R-HSA-2262752: Cellular responses to stress	1	0.496	-0.000	0.464	-0.000	-0.000	-0.000
+GENE29X	hsa04141	hsa04141: Protein processing in endoplasmic reticulum	1	0.107	-0.000	0.761	-0.000	-0.000	-0.000
+GENE37X	GO:0034976	GO:0034976: response to endoplasmic reticulum stress	1	0.167	-0.000	0.492	-0.000	-0.000	-0.000
+GENE4X	M160	M160: PID AVB3 INTEGRIN PATHWAY	1	-0.000	-0.000	-0.000	0.552	-0.000	-0.000
+GENE12X	GO:0007507	GO:0007507: heart development	1	0.116	-0.000	0.185	0.295	-0.000	0.239
+GENE100X	GO:0009792	GO:0009792: embryo development ending in birth or egg hatching	1	0.107	-0.000	0.270	0.169	-0.000	0.329
+GENE66X	GO:0006900	GO:0006900: vesicle budding from membrane	1	-0.000	-0.000	0.468	0.241	-0.000	0.104
+GENE36X	GO:0000902	GO:0000902: cell morphogenesis	1	-0.000	-0.000	0.265	0.123	-0.000	0.266
+GENE68X	GO:0031344	GO:0031344: regulation of cell projection organization	1	-0.000	-0.000	0.192	0.192	-0.000	0.327
+GENE73X	GO:0061061	GO:0061061: muscle structure development	1	-0.000	-0.000	0.265	0.360	-0.000	0.209
+GENE51X	GO:0001501	GO:0001501: skeletal system development	1	-0.000	-0.000	0.140	0.407	-0.000	0.308
+GENE64X	GO:0051493	GO:0051493: regulation of cytoskeleton organization	1	-0.000	-0.000	0.110	0.263	-0.000	0.326
+GENE35X	R-HSA-1474244	R-HSA-1474244: Extracellular matrix organization	1	-0.000	0.153	0.321	0.441	-0.000	0.125
+GENE16X	hsa04144	hsa04144: Endocytosis	1	-0.000	0.218	0.184	0.218	-0.000	-0.000
+GENE92X	GO:0030036	GO:0030036: actin cytoskeleton organization	1	-0.000	0.125	0.481	0.555	-0.000	-0.000
+GENE43X	R-HSA-446203	R-HSA-446203: Asparagine N-linked glycosylation	1	-0.000	-0.000	1.000	0.318	-0.000	-0.000
+GENE80X	R-HSA-381070	R-HSA-381070: IRE1alpha activates chaperones	1	-0.000	-0.000	0.804	0.138	-0.000	-0.000
+GENE78X	R-HSA-5653656	R-HSA-5653656: Vesicle-mediated transport	1	-0.000	-0.000	1.000	0.554	0.170	-0.000
+GENE26X	GO:0061024	GO:0061024: membrane organization	1	-0.000	-0.000	0.366	0.309	0.123	0.141
+GENE89X	R-HSA-9716542	R-HSA-9716542: Signaling by Rho GTPases, Miro GTPases and RHOBTB3	1	-0.000	-0.000	0.327	0.271	0.153	0.112

@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_epi_blue_sorted_top300	modules_epi_red_sorted_top300	modules_epi_pink_sorted_top300	modules_epi_turquoise_sorted_top300	modules_epi_black_sorted_top300	modules_epi_yellow_sorted_top300
+AID				ARRY2X	ARRY4X	ARRY3X	ARRY5X	ARRY1X	ARRY6X
+EWEIGHT				1	1	1	1	1	1
+GENE2X	PGB:00045	Tissue-specific: placenta	1	-0.000	0.150	-0.000	0.122	-0.000	-0.000
+GENE6X	PGB:00071	Cell-specific: Vaginal Epithelial	1	-0.000	0.190	-0.000	-0.000	-0.000	-0.000
+GENE11X	PGB:00026	Cell-specific: CD71+ EarlyErythroid	1	-0.000	0.159	-0.000	-0.000	-0.000	-0.000
+GENE8X	PGB:00082	Cell-specific: Breast cell	1	0.134	0.184	-0.000	-0.000	0.133	-0.000
+GENE14X	PGB:00115	Cell-specific: CD33+ Myeloid	1	-0.000	0.105	-0.000	-0.000	0.157	-0.000
+GENE19X	PGB:00049	Cell-specific: Adipocyte	1	0.241	0.241	-0.000	-0.000	-0.000	-0.000
+GENE20X	PGB:00002	Cell-specific: HEPG2	1	0.817	0.326	-0.000	-0.000	-0.000	-0.000
+GENE3X	PGB:00001	Tissue-specific: liver	1	1.000	0.259	-0.000	-0.000	-0.000	-0.000
+GENE18X	PGB:00078	Cell-specific: liver cell	1	0.560	0.273	-0.000	-0.000	-0.000	-0.000
+GENE16X	PGB:00068	Tissue-specific: Stomach	1	0.145	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE1X	PGB:00014	Cell-specific: DRG	1	0.134	-0.000	-0.000	0.184	-0.000	-0.000
+GENE13X	PGB:00007	Tissue-specific: colon	1	0.222	0.134	-0.000	0.108	-0.000	-0.000
+GENE4X	PGB:00120	Cell-specific: Cardiac Myocytes	1	-0.000	0.227	-0.000	0.175	0.175	0.126
+GENE10X	PGB:00081	Cell-specific: Bronchial Epithelial Cells	1	-0.000	-0.000	-0.000	0.167	0.251	0.394
+GENE12X	PGB:00031	Cell-specific: HUVEC	1	-0.000	-0.000	-0.000	0.232	0.119	0.119
+GENE15X	PGB:00015	Tissue-specific: Smooth Muscle	1	-0.000	-0.000	-0.000	0.206	0.354	0.122
+GENE17X	PGB:00011	Tissue-specific: spleen	1	-0.000	-0.000	0.165	-0.000	0.164	-0.000
+GENE7X	PGB:00041	Tissue-specific: Blood	1	-0.000	-0.000	0.387	0.128	-0.000	0.159
+GENE5X	PGB:00018	Tissue-specific: lung	1	-0.000	-0.000	0.166	0.118	-0.000	-0.000
+GENE9X	PGB:00101	Tissue-specific: Colorectal adenocarcinoma	1	-0.000	0.105	0.158	0.105	-0.000	-0.000

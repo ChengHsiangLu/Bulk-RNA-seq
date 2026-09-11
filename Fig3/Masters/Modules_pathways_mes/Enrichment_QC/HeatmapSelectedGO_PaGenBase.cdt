@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_mes_blue_sorted_top300	modules_mes_black_sorted_top300	modules_mes_green_sorted_top300	modules_mes_pink_sorted_top300	modules_mes_grey_sorted_top300	modules_mes_red_sorted_top300
+AID				ARRY2X	ARRY1X	ARRY3X	ARRY5X	ARRY4X	ARRY6X
+EWEIGHT				1	1	1	1	1	1
+GENE16X	PGB:00015	Tissue-specific: Smooth Muscle	1	0.354	0.466	0.302	-0.000	-0.000	0.122
+GENE7X	PGB:00011	Tissue-specific: spleen	1	0.190	0.276	-0.000	-0.000	-0.000	-0.000
+GENE5X	PGB:00018	Tissue-specific: lung	1	0.341	0.118	-0.000	-0.000	-0.000	-0.000
+GENE17X	PGB:00041	Tissue-specific: Blood	1	0.669	0.192	-0.000	-0.000	-0.000	-0.000
+GENE19X	PGB:00049	Cell-specific: Adipocyte	1	0.160	-0.000	-0.000	0.200	-0.000	-0.000
+GENE18X	PGB:00188	Cell-specific: GM2313	1	0.224	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	PGB:00137	Cell-specific: LN18	1	0.191	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE12X	PGB:00052	Cell-specific: HELA	1	0.128	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE3X	PGB:00086	Cell-specific: Lymphoma burkitts Daudi	1	0.146	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE4X	PGB:00019	Cell-specific: H1-hesc	1	0.114	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE8X	PGB:00087	Cell-specific: Lymphoma burkitts Raji	1	-0.000	0.291	-0.000	-0.000	-0.000	-0.000
+GENE2X	PGB:00101	Tissue-specific: Colorectal adenocarcinoma	1	-0.000	0.157	-0.000	-0.000	-0.000	-0.000
+GENE15X	PGB:00046	Cell-specific: 721B lymphoblasts	1	-0.000	0.180	-0.000	-0.000	-0.000	-0.000
+GENE10X	PGB:00034	Cell-specific: OVR278E	1	-0.000	-0.000	-0.000	-0.000	0.101	-0.000
+GENE11X	PGB:00073	Tissue-specific: salivary gland	1	-0.000	-0.000	-0.000	0.123	-0.000	-0.000
+GENE1X	PGB:00095	Cell-specific: LNCAP	1	-0.000	-0.000	-0.000	0.110	-0.000	-0.000
+GENE9X	PGB:00014	Cell-specific: DRG	1	-0.000	-0.000	-0.000	0.134	-0.000	-0.000
+GENE6X	PGB:00067	Cell-specific: Brain cell	1	0.118	-0.000	0.118	0.164	-0.000	0.118
+GENE13X	PGB:00120	Cell-specific: Cardiac Myocytes	1	0.227	-0.000	0.406	-0.000	-0.000	-0.000
+GENE20X	PGB:00026	Cell-specific: CD71+ EarlyErythroid	1	-0.000	-0.000	0.159	-0.000	-0.000	-0.000

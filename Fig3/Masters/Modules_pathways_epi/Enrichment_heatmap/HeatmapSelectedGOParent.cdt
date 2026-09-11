@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_epi_blue_sorted_top300	modules_epi_turquoise_sorted_top300	modules_epi_black_sorted_top300	modules_epi_red_sorted_top300	modules_epi_pink_sorted_top300	modules_epi_yellow_sorted_top300
+AID				ARRY2X	ARRY5X	ARRY1X	ARRY4X	ARRY3X	ARRY6X
+EWEIGHT				1	1	1	1	1	1
+GENE16X	GO:0098754	GO:0098754: detoxification	1	0.198	-0.000	-0.000	0.131	-0.000	-0.000
+GENE6X	GO:0048511	GO:0048511: rhythmic process	1	0.114	-0.000	0.159	-0.000	0.114	-0.000
+GENE17X	GO:0043473	GO:0043473: pigmentation	1	-0.000	-0.000	0.153	-0.000	-0.000	-0.000
+GENE2X	GO:0016032	GO:0016032: viral process	1	-0.000	-0.000	0.140	0.134	0.656	0.287
+GENE1X	GO:0044419	GO:0044419: biological process involved in interspecies interaction between organisms	1	0.115	-0.000	0.653	0.196	1.000	0.314
+GENE9X	GO:0042592	GO:0042592: homeostatic process	1	0.478	-0.000	0.307	0.244	0.197	0.213
+GENE12X	GO:0022414	GO:0022414: reproductive process	1	0.101	0.161	-0.000	0.170	0.170	0.109
+GENE5X	GO:0040007	GO:0040007: growth	1	-0.000	0.396	0.122	0.166	0.216	0.205
+GENE18X	GO:0040011	GO:0040011: locomotion	1	-0.000	0.383	0.431	0.304	0.355	0.431
+GENE7X	GO:0002376	GO:0002376: immune system process	1	0.123	0.185	0.435	0.271	0.852	0.358
+GENE20X	GO:0048519	GO:0048519: negative regulation of biological process	1	0.180	0.270	0.254	0.248	0.343	0.380
+GENE4X	GO:0065007	GO:0065007: biological regulation	1	0.315	0.410	0.184	0.349	0.185	0.306
+GENE14X	GO:0051179	GO:0051179: localization	1	0.522	0.378	0.251	0.374	0.226	0.412
+GENE13X	GO:0050896	GO:0050896: response to stimulus	1	0.355	0.593	1.000	0.326	0.749	0.552
+GENE8X	GO:0008152	GO:0008152: metabolic process	1	0.743	0.393	0.321	0.241	0.369	0.426
+GENE19X	GO:0032501	GO:0032501: multicellular organismal process	1	0.400	0.261	0.316	0.210	0.661	0.450
+GENE3X	GO:0048518	GO:0048518: positive regulation of biological process	1	0.226	0.541	0.542	0.208	0.849	0.428
+GENE10X	GO:0032502	GO:0032502: developmental process	1	0.266	0.899	0.479	0.295	0.322	0.482
+GENE11X	GO:0050789	GO:0050789: regulation of biological process	1	0.346	0.759	0.249	0.418	0.439	0.641
+GENE15X	GO:0009987	GO:0009987: cellular process	1	0.379	1.000	0.301	0.235	0.349	0.683

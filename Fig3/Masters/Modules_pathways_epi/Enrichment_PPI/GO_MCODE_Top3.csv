@@ -1,0 +1,41 @@
+Network,Annotation
+modules_epi_black_sorted_top300,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-22.4;R-HSA-1280215|Cytokine Signaling in Immune system|-20.9;GO:0019221|cytokine-mediated signaling pathway|-19.8
+modules_epi_black_sorted_top300_MCODE_ALL,GO:0071345|cellular response to cytokine stimulus|-17.4;GO:0019221|cytokine-mediated signaling pathway|-17.4;R-HSA-1280215|Cytokine Signaling in Immune system|-16.9
+modules_epi_black_sorted_top300_SUB1_MCODE_1,GO:0071345|cellular response to cytokine stimulus|-10.1;R-HSA-1280215|Cytokine Signaling in Immune system|-8.4;GO:0019221|cytokine-mediated signaling pathway|-8.4
+modules_epi_black_sorted_top300_SUB1_MCODE_2,GO:0019221|cytokine-mediated signaling pathway|-11.2;R-HSA-1280215|Cytokine Signaling in Immune system|-11.1;R-HSA-909733|Interferon alpha/beta signaling|-10.6
+modules_epi_black_sorted_top300_SUB1_MCODE_3,GO:0032922|circadian regulation of gene expression|-7.9;R-HSA-400253|Circadian Clock|-7.9;GO:0042752|regulation of circadian rhythm|-7.3
+modules_epi_blue_sorted_top300,R-HSA-6798695|Neutrophil degranulation|-16.8;GO:1901615|organic hydroxy compound metabolic process|-15.8;R-HSA-556833|Metabolism of lipids|-15.1
+modules_epi_blue_sorted_top300_MCODE_ALL,GO:1901615|organic hydroxy compound metabolic process|-14.1;R-HSA-556833|Metabolism of lipids|-12.6;WP5304|Cholesterol metabolism|-12.1
+modules_epi_blue_sorted_top300_SUB1_MCODE_1,hsa00520|Amino sugar and nucleotide sugar metabolism|-8.0;GO:0005996|monosaccharide metabolic process|-7.4;GO:0005975|carbohydrate metabolic process|-7.2
+modules_epi_blue_sorted_top300_SUB1_MCODE_2,GO:0019395|fatty acid oxidation|-7.6;GO:0034440|lipid oxidation|-7.5;GO:0009062|fatty acid catabolic process|-7.4
+modules_epi_blue_sorted_top300_SUB1_MCODE_3,GO:0034375|high-density lipoprotein particle remodeling|-14.8;GO:0015918|sterol transport|-13.9;GO:0034368|protein-lipid complex remodeling|-13.3
+modules_epi_blue_sorted_top300_SUB1_MCODE_4,R-HSA-191273|Cholesterol biosynthesis|-10.8;R-HSA-8957322|Metabolism of steroids|-10.2;WP4718|Cholesterol metabolism with Bloch and Kandutsch Russell pathways|-9.8
+modules_epi_blue_sorted_top300_SUB1_MCODE_7,GO:0006413|translational initiation|-8.0;GO:0006412|translation|-5.7;GO:0043043|peptide biosynthetic process|-5.6
+modules_epi_blue_sorted_top300_SUB1_MCODE_8,hsa00350|Tyrosine metabolism|-8.8;GO:1901616|organic hydroxy compound catabolic process|-8.2;GO:1901615|organic hydroxy compound metabolic process|-5.4
+modules_epi_pink_sorted_top300,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-34.7;GO:0045087|innate immune response|-28.4;M5911|HALLMARK INTERFERON ALPHA RESPONSE|-28.1
+modules_epi_pink_sorted_top300_MCODE_ALL,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-27.3;R-HSA-1280215|Cytokine Signaling in Immune system|-24.4;M5911|HALLMARK INTERFERON ALPHA RESPONSE|-22.6
+modules_epi_pink_sorted_top300_SUB1_MCODE_1,R-HSA-909733|Interferon alpha/beta signaling|-23.6;R-HSA-913531|Interferon Signaling|-18.5;M5913|HALLMARK INTERFERON GAMMA RESPONSE|-16.6
+modules_epi_pink_sorted_top300_SUB1_MCODE_2,R-HSA-418594|G alpha (i) signalling events|-17.9;R-HSA-500792|GPCR ligand binding|-16.3;R-HSA-388396|GPCR downstream signalling|-15.1
+modules_epi_pink_sorted_top300_SUB1_MCODE_4,R-HSA-4608870|Asymmetric localization of PCP proteins|-15.3;R-HSA-1169091|Activation of NF-kappaB in B cells|-15.2;R-HSA-2871837|FCERI mediated NF-kB activation|-14.6
+modules_epi_pink_sorted_top300_SUB1_MCODE_5,R-HSA-9020956|Interleukin-27 signaling|-9.1;R-HSA-8984722|Interleukin-35 Signalling|-9.0;GO:0001819|positive regulation of cytokine production|-8.1
+modules_epi_pink_sorted_top300_SUB1_MCODE_6,R-HSA-3238698|WNT ligand biogenesis and trafficking|-8.6;WP4150|Wnt signaling in kidney disease|-8.2;hsa05217|Basal cell carcinoma|-7.5
+modules_epi_pink_sorted_top300_SUB1_MCODE_7,"GO:0019885|antigen processing and presentation of endogenous peptide antigen via MHC class I|-9.4;GO:0002483|antigen processing and presentation of endogenous peptide antigen|-9.3;R-HSA-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-9.1"
+modules_epi_pink_sorted_top300_SUB1_MCODE_8,M54|PID IL12 2PATHWAY|-8.1;WP4341|Non genomic actions of 1 25 dihydroxyvitamin D3|-7.8;hsa04380|Osteoclast differentiation|-7.1
+modules_epi_red_sorted_top300,R-HSA-1474244|Extracellular matrix organization|-12.6;R-HSA-381426|Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)|-10.8;GO:0050878|regulation of body fluid levels|-8.6
+modules_epi_red_sorted_top300_MCODE_ALL,R-HSA-114608|Platelet degranulation|-8.8;WP558|Complement and coagulation cascades|-8.8;R-HSA-76005|Response to elevated platelet cytosolic Ca2+|-8.7
+modules_epi_red_sorted_top300_SUB1_MCODE_1,R-HSA-114608|Platelet degranulation|-10.6;R-HSA-76005|Response to elevated platelet cytosolic Ca2+|-10.5;WP558|Complement and coagulation cascades|-10.2
+modules_epi_red_sorted_top300_SUB1_MCODE_2,R-HSA-8943724|Regulation of PTEN gene transcription|-6.4;R-HSA-6807070|PTEN Regulation|-5.3;GO:0007605|sensory perception of sound|-5.1
+modules_epi_red_sorted_top300_SUB1_MCODE_3,GO:0006109|regulation of carbohydrate metabolic process|-6.1;GO:0030100|regulation of endocytosis|-5.5;GO:0010975|regulation of neuron projection development|-4.9
+modules_epi_turquoise_sorted_top300,GO:0030029|actin filament-based process|-23.3;GO:0030036|actin cytoskeleton organization|-22.2;GO:0097435|supramolecular fiber organization|-20.0
+modules_epi_turquoise_sorted_top300_MCODE_ALL,GO:0030029|actin filament-based process|-18.9;GO:0030036|actin cytoskeleton organization|-18.1;GO:0097435|supramolecular fiber organization|-15.9
+modules_epi_turquoise_sorted_top300_SUB1_MCODE_1,GO:0030036|actin cytoskeleton organization|-9.9;GO:0030029|actin filament-based process|-9.5;WP306|Focal adhesion|-9.2
+modules_epi_turquoise_sorted_top300_SUB1_MCODE_2,GO:0007015|actin filament organization|-8.5;GO:0030036|actin cytoskeleton organization|-7.0;GO:0097435|supramolecular fiber organization|-6.8
+modules_epi_turquoise_sorted_top300_SUB1_MCODE_3,"R-HSA-194315|Signaling by Rho GTPases|-8.2;R-HSA-9716542|Signaling by Rho GTPases, Miro GTPases and RHOBTB3|-8.1;GO:0007264|small GTPase mediated signal transduction|-7.6"
+modules_epi_yellow_sorted_top300,WP306|Focal adhesion|-15.8;GO:0030029|actin filament-based process|-15.7;hsa04510|Focal adhesion|-15.7
+modules_epi_yellow_sorted_top300_MCODE_ALL,GO:0034329|cell junction assembly|-18.9;GO:0034330|cell junction organization|-18.8;GO:0045216|cell-cell junction organization|-15.1
+modules_epi_yellow_sorted_top300_SUB1_MCODE_1,GO:0034330|cell junction organization|-13.3;R-HSA-9006934|Signaling by Receptor Tyrosine Kinases|-11.7;GO:0034329|cell junction assembly|-10.6
+modules_epi_yellow_sorted_top300_SUB1_MCODE_2,R-HSA-2682334|EPH-Ephrin signaling|-7.1;R-HSA-8856828|Clathrin-mediated endocytosis|-6.3;GO:0032506|cytokinetic process|-6.1
+modules_epi_yellow_sorted_top300_SUB1_MCODE_3,GO:0032970|regulation of actin filament-based process|-10.8;GO:0030036|actin cytoskeleton organization|-9.8;GO:0030029|actin filament-based process|-9.4
+modules_epi_yellow_sorted_top300_SUB1_MCODE_4,R-HSA-8866652|Synthesis of active ubiquitin: roles of E1 and E2 enzymes|-8.5;R-HSA-8852135|Protein ubiquitination|-7.2;hsa04120|Ubiquitin mediated proteolysis|-6.4
+modules_epi_yellow_sorted_top300_SUB1_MCODE_5,M28|PID IL4 2PATHWAY|-8.0;R-HSA-6785807|Interleukin-4 and Interleukin-13 signaling|-7.4;WP5083|Neuroinflammation and glutamatergic signaling|-7.0
+modules_epi_yellow_sorted_top300_SUB1_MCODE_6,R-HSA-445355|Smooth Muscle Contraction|-8.5;GO:0070527|platelet aggregation|-8.5;GO:0034109|homotypic cell-cell adhesion|-8.1

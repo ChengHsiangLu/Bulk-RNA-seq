@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_epi_black_sorted_top300	modules_epi_pink_sorted_top300	modules_epi_yellow_sorted_top300	modules_epi_turquoise_sorted_top300	modules_epi_blue_sorted_top300	modules_epi_red_sorted_top300
+AID				ARRY1X	ARRY3X	ARRY6X	ARRY5X	ARRY2X	ARRY4X
+EWEIGHT				1	1	1	1	1	1
+GENE13X	C0162871	Aortic Aneurysm, Abdominal	1	0.203	0.633	-0.000	0.155	0.317	0.257
+GENE17X	C3714514	Infection	1	0.730	0.732	0.313	-0.000	-0.000	0.121
+GENE8X	C3714636	Pneumonitis	1	0.435	0.646	0.138	-0.000	-0.000	0.206
+GENE11X	C0024530	Malaria	1	0.122	0.695	0.122	-0.000	-0.000	0.103
+GENE9X	C0021368	Inflammation	1	0.363	0.674	0.153	0.129	0.180	0.206
+GENE18X	C0004623	Bacterial Infections	1	0.640	0.459	0.190	-0.000	0.123	0.143
+GENE14X	C0019158	Hepatitis	1	0.174	0.682	0.174	-0.000	0.152	-0.000
+GENE6X	C0038013	Ankylosing spondylitis	1	0.458	0.869	-0.000	0.115	-0.000	-0.000
+GENE1X	C0151449	Primary Sjögren's syndrome	1	0.240	0.747	-0.000	-0.000	-0.000	-0.000
+GENE4X	C0011311	Dengue Fever	1	0.239	0.917	-0.000	-0.000	-0.000	-0.000
+GENE19X	C0018213	Graves Disease	1	0.316	0.672	-0.000	-0.000	-0.000	-0.000
+GENE2X	C1527336	Sjogren's Syndrome	1	0.387	0.701	-0.000	-0.000	-0.000	-0.000
+GENE3X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	0.398	0.993	-0.000	-0.000	-0.000	-0.000
+GENE12X	C1290884	Inflammatory disorder	1	0.219	0.680	0.190	-0.000	-0.000	-0.000
+GENE16X	C0011615	Dermatitis, Atopic	1	0.496	0.828	0.185	-0.000	-0.000	-0.000
+GENE5X	C0036202	Sarcoidosis	1	0.127	0.834	0.178	0.103	-0.000	-0.000
+GENE7X	C0024131	Lupus Vulgaris	1	0.109	0.611	0.131	0.109	-0.000	-0.000
+GENE15X	C0024138	Lupus Erythematosus, Discoid	1	0.144	0.625	0.122	0.101	-0.000	-0.000
+GENE10X	C0004943	Behcet Syndrome	1	0.338	0.677	0.139	0.117	-0.000	-0.000
+GENE20X	C0024143	Lupus Nephritis	1	0.274	0.805	0.139	0.116	-0.000	-0.000

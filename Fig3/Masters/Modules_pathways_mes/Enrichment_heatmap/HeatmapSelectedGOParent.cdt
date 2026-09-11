@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_mes_black_sorted_top300	modules_mes_blue_sorted_top300	modules_mes_grey_sorted_top300	modules_mes_pink_sorted_top300	modules_mes_green_sorted_top300	modules_mes_red_sorted_top300
+AID				ARRY1X	ARRY2X	ARRY4X	ARRY5X	ARRY3X	ARRY6X
+EWEIGHT				1	1	1	1	1	1
+GENE10X	GO:0040007	GO:0040007: growth	1	-0.000	-0.000	0.104	0.296	0.205	-0.000
+GENE1X	GO:0098754	GO:0098754: detoxification	1	-0.000	0.117	-0.000	-0.000	-0.000	-0.000
+GENE14X	GO:0043473	GO:0043473: pigmentation	1	-0.000	-0.000	-0.000	-0.000	0.125	-0.000
+GENE4X	GO:0051179	GO:0051179: localization	1	0.257	0.295	0.349	0.148	1.000	0.334
+GENE6X	GO:0009987	GO:0009987: cellular process	1	0.409	0.309	0.470	0.195	0.496	0.555
+GENE11X	GO:0050896	GO:0050896: response to stimulus	1	1.000	1.000	0.184	0.357	0.492	0.301
+GENE12X	GO:0008152	GO:0008152: metabolic process	1	0.554	0.357	0.196	0.173	0.432	0.257
+GENE19X	GO:0032502	GO:0032502: developmental process	1	0.321	0.479	0.155	0.414	0.380	0.407
+GENE20X	GO:0050789	GO:0050789: regulation of biological process	1	0.523	0.622	0.438	0.327	0.198	0.301
+GENE5X	GO:0048519	GO:0048519: negative regulation of biological process	1	0.481	0.994	0.295	0.308	0.109	0.166
+GENE17X	GO:0048518	GO:0048518: positive regulation of biological process	1	0.759	1.000	0.243	0.202	0.137	0.142
+GENE9X	GO:0042592	GO:0042592: homeostatic process	1	0.277	0.277	-0.000	-0.000	0.165	0.145
+GENE2X	GO:0002376	GO:0002376: immune system process	1	0.767	1.000	-0.000	0.168	0.126	0.112
+GENE18X	GO:0032501	GO:0032501: multicellular organismal process	1	0.668	0.774	-0.000	0.183	0.261	0.417
+GENE7X	GO:0065007	GO:0065007: biological regulation	1	0.339	0.311	-0.000	0.233	0.243	0.173
+GENE16X	GO:0040011	GO:0040011: locomotion	1	0.486	0.517	-0.000	0.269	0.100	0.206
+GENE8X	GO:0016032	GO:0016032: viral process	1	0.174	1.000	0.122	-0.000	-0.000	-0.000
+GENE13X	GO:0044419	GO:0044419: biological process involved in interspecies interaction between organisms	1	0.827	1.000	0.142	-0.000	0.143	-0.000
+GENE3X	GO:0048511	GO:0048511: rhythmic process	1	0.210	0.132	0.115	0.173	-0.000	-0.000
+GENE15X	GO:0022414	GO:0022414: reproductive process	1	0.126	0.101	-0.000	0.153	-0.000	0.129

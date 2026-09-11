@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	modules_mes_black_sorted_top300	modules_mes_blue_sorted_top300	modules_mes_green_sorted_top300	modules_mes_red_sorted_top300	modules_mes_grey_sorted_top300	modules_mes_pink_sorted_top300
+AID				ARRY1X	ARRY2X	ARRY3X	ARRY6X	ARRY4X	ARRY5X
+EWEIGHT				1	1	1	1	1	1
+GENE3X	C2062441	Influenza A	1	0.429	0.951	-0.000	-0.000	-0.000	-0.000
+GENE11X	C0037284	Skin lesion	1	0.362	0.905	-0.000	-0.000	-0.000	-0.000
+GENE19X	C0011603	Dermatitis	1	0.856	0.995	-0.000	-0.000	-0.000	-0.000
+GENE14X	C0011615	Dermatitis, Atopic	1	0.906	0.948	-0.000	-0.000	-0.000	-0.000
+GENE12X	C3875321	Inflammatory dermatosis	1	0.830	0.928	-0.000	-0.000	-0.000	-0.000
+GENE4X	C0004943	Behcet Syndrome	1	0.554	0.987	-0.000	-0.000	-0.000	-0.000
+GENE7X	C0151449	Primary Sjögren's syndrome	1	0.557	0.897	-0.000	-0.000	-0.000	-0.000
+GENE20X	C2363741	HIV-1 infection	1	0.468	1.000	-0.000	-0.000	-0.000	-0.000
+GENE18X	C1290884	Inflammatory disorder	1	0.389	1.000	-0.000	-0.000	-0.000	-0.000
+GENE15X	C0011633	Dermatomyositis	1	0.391	1.000	-0.000	-0.000	-0.000	-0.000
+GENE2X	C0221056	Adult type dermatomyositis	1	0.325	1.000	-0.000	-0.000	-0.000	-0.000
+GENE10X	C0151517	Complete atrioventricular block	1	0.455	1.000	-0.000	-0.000	-0.000	-0.000
+GENE1X	C3714514	Infection	1	1.000	1.000	-0.000	-0.000	-0.000	-0.000
+GENE17X	C0021368	Inflammation	1	0.759	1.000	-0.000	-0.000	-0.000	-0.000
+GENE16X	C4529962	Fatty Liver Disease	1	0.607	1.000	-0.000	-0.000	-0.000	-0.000
+GENE13X	C0524910	Hepatitis C, Chronic	1	0.507	1.000	-0.000	-0.000	-0.000	-0.000
+GENE5X	C3714636	Pneumonitis	1	0.682	1.000	-0.000	-0.000	-0.000	-0.000
+GENE8X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	0.549	1.000	-0.000	-0.000	-0.000	-0.000
+GENE6X	C0024143	Lupus Nephritis	1	0.371	0.938	0.116	-0.000	-0.000	-0.000
+GENE9X	C0011311	Dengue Fever	1	0.629	1.000	0.124	-0.000	-0.000	-0.000
