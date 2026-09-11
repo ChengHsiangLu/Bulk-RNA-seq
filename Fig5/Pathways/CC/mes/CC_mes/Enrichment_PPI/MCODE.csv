@@ -1,0 +1,4 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.0,Clustered,3233,HOXD4,MyList_SUB2
+1,1.0,Clustered,3223,HOXC6,MyList_SUB2
+1,1.0,Seed,3203,HOXA6,MyList_SUB2

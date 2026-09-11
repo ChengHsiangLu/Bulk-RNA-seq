@@ -1,0 +1,9 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,8490,RGS5,MyList_SUB2
+1,1.5,Clustered,6000,RGS7,MyList_SUB2
+1,1.5,Clustered,6001,RGS10,MyList_SUB2
+1,1.5,Seed,5999,RGS4,MyList_SUB2
+2,1.0,Clustered,6913,TBX15,MyList_SUB3
+2,1.0,Seed,4821,NKX2-2,MyList_SUB3
+2,1.0,Clustered,6899,TBX1,MyList_SUB3
+2,1.0,Clustered,644524,NKX2-4,MyList_SUB3

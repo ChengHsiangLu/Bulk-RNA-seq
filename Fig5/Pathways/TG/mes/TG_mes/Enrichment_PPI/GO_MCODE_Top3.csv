@@ -1,0 +1,4 @@
+Network,Annotation
+MyList,R-HSA-1474244|Extracellular matrix organization|-47.3;R-HSA-1474228|Degradation of the extracellular matrix|-20.4;R-HSA-9006934|Signaling by Receptor Tyrosine Kinases|-19.8
+MyList_MCODE_ALL,R-HSA-418594|G alpha (i) signalling events|-6.1;R-HSA-388396|GPCR downstream signalling|-4.9;R-HSA-372790|Signaling by GPCR|-4.7
+MyList_SUB2_MCODE_1,R-HSA-418594|G alpha (i) signalling events|-7.9;R-HSA-388396|GPCR downstream signalling|-6.7;R-HSA-372790|Signaling by GPCR|-6.5

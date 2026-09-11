@@ -1,0 +1,173 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-3.7,R-HSA-2132295,MHC class II antigen presentation,M1,1,0
+1,-2.9,R-HSA-170834,Signaling by TGF-beta Receptor Complex,M1,1,0
+1,-2.4,R-HSA-8979227,Triglyceride metabolism,M1,1,0
+1,-8,R-HSA-109582,Hemostasis,M1,1,0
+1,-3.6,R-HSA-2559585,Oncogene Induced Senescence,M1,1,0
+1,-6,R-HSA-421270,Cell-cell junction organization,M1,1,0
+1,-3.7,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,M1,1,0
+1,-2.6,R-HSA-210745,Regulation of gene expression in beta cells,M1,1,0
+1,-2.8,R-HSA-418555,G alpha (s) signalling events,M1,1,0
+1,-7.9,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,M1,1,0
+1,-2.4,R-HSA-2559582,Senescence-Associated Secretory Phenotype (SASP),M1,1,0
+1,-3.2,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,M1,1,0
+1,-3,R-HSA-9012999,RHO GTPase cycle,M1,1,0
+1,-2.4,R-HSA-163560,Triglyceride catabolism,M1,1,0
+1,-3.1,R-HSA-9006936,Signaling by TGFB family members,M1,1,0
+1,-3,R-HSA-164378,PKA activation in glucagon signalling,M1,1,0
+1,-2.7,R-HSA-418597,G alpha (z) signalling events,M1,1,0
+1,-2.1,R-HSA-2559580,Oxidative Stress Induced Senescence,M1,1,0
+1,-6.1,R-HSA-3560801,Defective B3GAT3 causes JDSSDHD,M1,1,0
+1,-2.5,R-HSA-445717,Aquaporin-mediated transport,M1,1,0
+1,-6.8,R-HSA-425407,SLC-mediated transmembrane transport,M1,1,0
+1,-4,R-HSA-425366,"Transport of bile salts and organic acids, metal ions and amine compounds",M1,1,0
+1,-3.3,R-HSA-170670,Adenylate cyclase inhibitory pathway,M1,1,0
+1,-2.1,R-HSA-1296059,G protein gated Potassium channels,M1,1,0
+1,-2.3,R-HSA-2892247,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",M1,1,0
+1,-2.8,R-HSA-877300,Interferon gamma signaling,M1,1,0
+1,-4.6,R-HSA-977444,GABA B receptor activation,M1,1,0
+1,-6.9,R-HSA-3781865,Diseases of glycosylation,M1,1,0
+1,-4.1,R-HSA-9617828,FOXO-mediated transcription of cell cycle genes,M1,1,0
+1,-2.8,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer,M1,1,0
+1,-3.6,R-HSA-1630316,Glycosaminoglycan metabolism,M1,1,0
+1,-3,R-HSA-2980736,Peptide hormone metabolism,M1,1,0
+1,-3.3,R-HSA-452723,Transcriptional regulation of pluripotent stem cells,M1,1,0
+1,-5.3,R-HSA-1971475,A tetrasaccharide linker sequence is required for GAG synthesis,M1,1,0
+1,-2.7,R-HSA-163615,PKA activation,M1,1,0
+1,-4.8,R-HSA-9658195,Leishmania infection,M1,1,0
+1,-5.8,R-HSA-76002,"Platelet activation, signaling and aggregation",M1,1,0
+1,-2.1,R-HSA-1296041,Activation of G protein gated Potassium channels,M1,1,0
+1,-6.1,R-HSA-4420332,Defective B3GALT6 causes EDSP2 and SEMDJL1,M1,1,0
+1,-3.6,R-HSA-5668914,Diseases of metabolism,M1,1,0
+1,-3,R-HSA-6809371,Formation of the cornified envelope,M1,1,0
+1,-2.3,R-HSA-174824,"Plasma lipoprotein assembly, remodeling, and clearance",M1,1,0
+1,-2.8,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,M1,1,0
+1,-2.3,R-HSA-9733458,Induction of Cell-Cell Fusion,M1,1,0
+1,-6.9,R-HSA-382551,Transport of small molecules,M1,1,0
+1,-2.2,R-HSA-177504,Retrograde neurotrophin signalling,M1,1,0
+1,-6.4,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-8.6,R-HSA-1474228,Degradation of the extracellular matrix,M1,1,0
+1,-6,R-HSA-3595174,"Defective CHST14 causes EDS, musculocontractural type",M1,1,0
+1,-4.9,R-HSA-388396,GPCR downstream signalling,M1,1,0
+1,-3.9,R-HSA-2559583,Cellular Senescence,M1,1,0
+1,-3.7,R-HSA-186797,Signaling by PDGF,M1,1,0
+1,-7.5,R-HSA-1474290,Collagen formation,M1,1,0
+1,-2.4,R-HSA-5173214,O-glycosylation of TSR domain-containing proteins,M1,1,0
+1,-9.2,R-HSA-3000171,Non-integrin membrane-ECM interactions,M1,1,0
+1,-2.5,R-HSA-112310,Neurotransmitter release cycle,M1,1,0
+1,-2.4,R-HSA-2129379,Molecules associated with elastic fibres,M1,1,0
+1,-4.8,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,M1,1,0
+1,-2.6,R-HSA-6798695,Neutrophil degranulation,M1,1,0
+1,-2.9,R-HSA-2682334,EPH-Ephrin signaling,M1,1,0
+1,-4.8,R-HSA-186712,Regulation of beta-cell development,M1,1,0
+1,-2.4,R-HSA-5576891,Cardiac conduction,M1,1,0
+1,-2.1,R-HSA-372708,p130Cas linkage to MAPK signaling for integrins,M1,1,0
+1,-5,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,M1,1,0
+1,-2.1,R-HSA-975634,Retinoid metabolism and transport,M1,1,0
+1,-2.9,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins,M1,1,0
+1,-3.9,R-HSA-1280215,Cytokine Signaling in Immune system,M1,1,0
+1,-8.7,R-HSA-112316,Neuronal System,M1,1,0
+1,-4.5,R-HSA-500792,GPCR ligand binding,M1,1,0
+1,-5.6,R-HSA-112315,Transmission across Chemical Synapses,M1,1,0
+1,-4.4,R-HSA-380108,Chemokine receptors bind chemokines,M1,1,0
+1,-6.1,R-HSA-977443,GABA receptor activation,M1,1,0
+1,-2,R-HSA-1482839,Acyl chain remodelling of PE,M1,1,0
+1,-6.3,R-HSA-9675108,Nervous system development,M1,1,0
+1,-3.8,R-HSA-419037,NCAM1 interactions,M1,1,0
+1,-5,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,M1,1,0
+1,-5.2,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,M1,1,0
+1,-8.6,R-HSA-3000178,ECM proteoglycans,M1,1,0
+1,-5.5,R-HSA-8948216,Collagen chain trimerization,M1,1,0
+1,-4.9,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),M1,1,0
+1,-3.1,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),M1,1,0
+1,-2.8,R-HSA-629597,Highly calcium permeable nicotinic acetylcholine receptors,M1,1,0
+1,-4.4,R-HSA-9648895,Response of EIF2AK1 (HRI) to heme deficiency,M1,1,0
+1,-4.1,R-HSA-3000170,Syndecan interactions,M1,1,0
+1,-3.3,R-HSA-9614085,FOXO-mediated transcription,M1,1,0
+1,-2.7,R-HSA-913709,O-linked glycosylation of mucins,M1,1,0
+1,-3.6,R-HSA-9664420,Killing mechanisms,M1,1,0
+1,-3.7,R-HSA-388844,Receptor-type tyrosine-protein phosphatases,M1,1,0
+1,-4.4,R-HSA-2214320,Anchoring fibril formation,M1,1,0
+1,-3.8,R-HSA-8874081,MET activates PTK2 signaling,M1,1,0
+1,-4.1,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,M1,1,0
+1,-5.7,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,M1,1,0
+1,-2.6,R-HSA-8963899,Plasma lipoprotein remodeling,M1,1,0
+1,-6.1,R-HSA-2022870,Chondroitin sulfate biosynthesis,M1,1,0
+1,-6.2,R-HSA-210746,Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells,M1,1,0
+1,-2.5,R-HSA-111931,PKA-mediated phosphorylation of CREB,M1,1,0
+1,-2.8,R-HSA-8963889,Assembly of active LPL and LIPC lipase complexes,M1,1,0
+1,-8.4,R-HSA-446728,Cell junction organization,M1,1,0
+1,-4.8,R-HSA-375276,Peptide ligand-binding receptors,M1,1,0
+1,-2.2,R-HSA-354192,Integrin signaling,M1,1,0
+1,-2.4,R-HSA-629594,Highly calcium permeable postsynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-6.1,R-HSA-3560783,"Defective B4GALT7 causes EDS, progeroid type",M1,1,0
+1,-4.8,R-HSA-3560782,Diseases associated with glycosaminoglycan metabolism,M1,1,0
+1,-6,R-HSA-3595172,Defective CHST3 causes SEDCJD,M1,1,0
+1,-2.8,R-HSA-9694614,Attachment and Entry,M1,1,0
+1,-5.4,R-HSA-114608,Platelet degranulation,M1,1,0
+1,-2.9,R-HSA-420029,Tight junction interactions,M1,1,0
+1,-2.1,R-HSA-354194,GRB2:SOS provides linkage to MAPK signaling for Integrins,M1,1,0
+1,-2.1,R-HSA-181431,Acetylcholine binding and downstream events,M1,1,0
+1,-2.3,R-HSA-8853659,RET signaling,M1,1,0
+1,-4.5,R-HSA-449147,Signaling by Interleukins,M1,1,0
+1,-2.3,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,M1,1,0
+1,-3.3,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,M1,1,0
+1,-4.1,R-HSA-5173105,O-linked glycosylation,M1,1,0
+1,-4,R-HSA-166520,Signaling by NTRKs,M1,1,0
+1,-2.2,R-HSA-9696273,RND1 GTPase cycle,M1,1,0
+1,-4.5,R-HSA-352230,Amino acid transport across the plasma membrane,M1,1,0
+1,-3.1,R-HSA-629587,Highly sodium permeable postsynaptic acetylcholine nicotinic receptors,M1,1,0
+1,-2.8,R-HSA-442660,Na+/Cl- dependent neurotransmitter transporters,M1,1,0
+1,-5.9,R-HSA-422475,Axon guidance,M1,1,0
+1,-2.1,R-HSA-997272,Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,M1,1,0
+1,-5.2,R-HSA-2022923,Dermatan sulfate biosynthesis,M1,1,0
+1,-2.2,R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,M1,1,0
+1,-2.9,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,M1,1,0
+1,-3.8,R-HSA-3000157,Laminin interactions,M1,1,0
+1,-2.8,R-HSA-6806834,Signaling by MET,M1,1,0
+1,-2,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation,M1,1,0
+1,-2,R-HSA-373755,Semaphorin interactions,M1,1,0
+1,-2.4,R-HSA-449836,Other interleukin signaling,M1,1,0
+1,-3.9,R-HSA-170660,Adenylate cyclase activating pathway,M1,1,0
+1,-4.5,R-HSA-9634597,GPER1 signaling,M1,1,0
+1,-2.4,R-HSA-5083635,Defective B3GALTL causes PpS,M1,1,0
+1,-5.2,R-HSA-446107,Type I hemidesmosome assembly,M1,1,0
+1,-2.8,R-HSA-9664433,Leishmania parasite growth and survival,M1,1,0
+1,-2.3,R-HSA-187037,Signaling by NTRK1 (TRKA),M1,1,0
+1,-3,R-HSA-210747,Regulation of gene expression in early pancreatic precursor cells,M1,1,0
+1,-2.4,R-HSA-6783589,Interleukin-6 family signaling,M1,1,0
+1,-4.6,R-HSA-991365,Activation of GABAB receptors,M1,1,0
+1,-3,R-HSA-418990,Adherens junctions interactions,M1,1,0
+1,-3.6,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),M1,1,0
+1,-4.3,R-HSA-6783783,Interleukin-10 signaling,M1,1,0
+1,-2.6,R-HSA-432720,Lysosome Vesicle Biogenesis,M1,1,0
+1,-2.1,R-HSA-9759475,Regulation of CDH11 Expression and Function,M1,1,0
+1,-3.6,R-HSA-9673324,WNT5:FZD7-mediated leishmania damping,M1,1,0
+1,-20,R-HSA-1474244,Extracellular matrix organization,M1,1,0
+1,-3.9,R-HSA-373760,L1CAM interactions,M1,1,0
+1,-2.3,R-HSA-76009,Platelet Aggregation (Plug Formation),M1,1,0
+1,-7.2,R-HSA-202733,Cell surface interactions at the vascular wall,M1,1,0
+1,-4.9,R-HSA-418594,G alpha (i) signalling events,M1,1,0
+1,-2.5,R-HSA-9762292,Regulation of CDH11 function,M1,1,0
+1,-2.6,R-HSA-189200,Cellular hexose transport,M1,1,0
+1,-3,R-HSA-8875878,MET promotes cell motility,M1,1,0
+1,-4.6,R-HSA-2024101,CS/DS degradation,M1,1,0
+1,-7.9,R-HSA-1500931,Cell-Cell communication,M1,1,0
+1,-5.8,R-HSA-1442490,Collagen degradation,M1,1,0
+1,-3.2,R-HSA-1296071,Potassium Channels,M1,1,0
+1,-3.8,R-HSA-3928663,EPHA-mediated growth cone collapse,M1,1,0
+1,-5.3,R-HSA-372790,Signaling by GPCR,M1,1,0
+1,-2.6,R-HSA-5576892,Phase 0 - rapid depolarisation,M1,1,0
+1,-6,R-HSA-3595177,Defective CHSY1 causes TPBS,M1,1,0
+1,-2.4,R-HSA-5668599,RHO GTPases Activate NADPH Oxidases,M1,1,0
+1,-2.7,R-HSA-375165,NCAM signaling for neurite out-growth,M1,1,0
+1,-2.5,R-HSA-9823739,Formation of the anterior neural plate,M1,1,0
+1,-2.1,R-HSA-622327,Postsynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-4.8,R-HSA-9824443,Parasitic Infection Pathways,M1,1,0
+1,-3.5,R-HSA-140875,Common Pathway of Fibrin Clot Formation,M1,1,0
+1,-3.7,R-HSA-1566948,Elastic fibre formation,M1,1,0
+1,-2.4,R-HSA-622323,Presynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-11,R-HSA-216083,Integrin cell surface interactions,M1,1,0
+1,-5,R-HSA-8957275,Post-translational protein phosphorylation,M1,1,0
+1,-3.6,R-HSA-163359,Glucagon signaling in metabolic regulation,M1,1,0
+1,-3.5,R-HSA-71387,Metabolism of carbohydrates,M1,1,0

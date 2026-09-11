@@ -1,0 +1,163 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.5,R-HSA-9832991,Formation of the posterior neural plate,M1,1,0
+1,-2.8,R-HSA-418990,Adherens junctions interactions,M1,1,0
+1,-2,R-HSA-1489509,DAG and IP3 signaling,M1,1,0
+1,-2.7,R-HSA-3928663,EPHA-mediated growth cone collapse,M1,1,0
+1,-2.6,R-HSA-500792,GPCR ligand binding,M1,1,0
+1,-2.7,R-HSA-111885,Opioid Signalling,M1,1,0
+1,-2.8,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",M1,1,0
+1,-6,R-HSA-8957275,Post-translational protein phosphorylation,M1,1,0
+1,-2.6,R-HSA-141430,Inactivation of APC/C via direct inhibition of the APC/C complex,M1,1,0
+1,-2.3,R-HSA-176974,Unwinding of DNA,M1,1,0
+1,-2.7,R-HSA-5083625,Defective GALNT3 causes HFTC,M1,1,0
+1,-2.8,R-HSA-68877,Mitotic Prometaphase,M1,1,0
+1,-2.5,R-HSA-1592389,Activation of Matrix Metalloproteinases,M1,1,0
+1,-2.7,R-HSA-629597,Highly calcium permeable nicotinic acetylcholine receptors,M1,1,0
+1,-2.3,R-HSA-9634600,"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",M1,1,0
+1,-4.4,R-HSA-68882,Mitotic Anaphase,M1,1,0
+1,-4.8,R-HSA-382551,Transport of small molecules,M1,1,0
+1,-2.6,R-HSA-141405,Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,M1,1,0
+1,-2.6,R-HSA-388844,Receptor-type tyrosine-protein phosphatases,M1,1,0
+1,-2.5,R-HSA-170660,Adenylate cyclase activating pathway,M1,1,0
+1,-2.9,R-HSA-388841,Costimulation by the CD28 family,M1,1,0
+1,-3.8,R-HSA-5173105,O-linked glycosylation,M1,1,0
+1,-3.1,R-HSA-373755,Semaphorin interactions,M1,1,0
+1,-2.9,R-HSA-210747,Regulation of gene expression in early pancreatic precursor cells,M1,1,0
+1,-3.4,R-HSA-140875,Common Pathway of Fibrin Clot Formation,M1,1,0
+1,-2.3,R-HSA-622323,Presynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-3,R-HSA-425366,"Transport of bile salts and organic acids, metal ions and amine compounds",M1,1,0
+1,-4.2,R-HSA-372708,p130Cas linkage to MAPK signaling for integrins,M1,1,0
+1,-2.3,R-HSA-174143,APC/C-mediated degradation of cell cycle proteins,M1,1,0
+1,-3.9,R-HSA-354192,Integrin signaling,M1,1,0
+1,-2.4,R-HSA-913531,Interferon Signaling,M1,1,0
+1,-3.8,R-HSA-76009,Platelet Aggregation (Plug Formation),M1,1,0
+1,-7.5,R-HSA-1280215,Cytokine Signaling in Immune system,M1,1,0
+1,-5.3,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,M1,1,0
+1,-7.9,R-HSA-1474290,Collagen formation,M1,1,0
+1,-3.2,R-HSA-375165,NCAM signaling for neurite out-growth,M1,1,0
+1,-5.2,R-HSA-2500257,Resolution of Sister Chromatid Cohesion,M1,1,0
+1,-2.6,R-HSA-5083632,Defective C1GALT1C1 causes TNPS,M1,1,0
+1,-2.2,R-HSA-2892247,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",M1,1,0
+1,-4.1,R-HSA-2467813,Separation of Sister Chromatids,M1,1,0
+1,-2.2,R-HSA-5358351,Signaling by Hedgehog,M1,1,0
+1,-3.4,R-HSA-2559585,Oncogene Induced Senescence,M1,1,0
+1,-2.6,R-HSA-3560783,"Defective B4GALT7 causes EDS, progeroid type",M1,1,0
+1,-3.7,R-HSA-76002,"Platelet activation, signaling and aggregation",M1,1,0
+1,-2.5,R-HSA-190377,FGFR2b ligand binding and activation,M1,1,0
+1,-4.2,R-HSA-449836,Other interleukin signaling,M1,1,0
+1,-4.5,R-HSA-419037,NCAM1 interactions,M1,1,0
+1,-3.8,R-HSA-388396,GPCR downstream signalling,M1,1,0
+1,-2.7,R-HSA-5083636,Defective GALNT12 causes CRCS1,M1,1,0
+1,-5.1,R-HSA-69618,Mitotic Spindle Checkpoint,M1,1,0
+1,-2.2,R-HSA-6798695,Neutrophil degranulation,M1,1,0
+1,-5,R-HSA-9823739,Formation of the anterior neural plate,M1,1,0
+1,-2.6,R-HSA-202430,Translocation of ZAP-70 to Immunological synapse,M1,1,0
+1,-2,R-HSA-202733,Cell surface interactions at the vascular wall,M1,1,0
+1,-3.1,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,M1,1,0
+1,-2.5,R-HSA-202433,Generation of second messenger molecules,M1,1,0
+1,-3.9,R-HSA-3000170,Syndecan interactions,M1,1,0
+1,-5.1,R-HSA-425407,SLC-mediated transmembrane transport,M1,1,0
+1,-2,R-HSA-181431,Acetylcholine binding and downstream events,M1,1,0
+1,-2.6,R-HSA-4420332,Defective B3GALT6 causes EDSP2 and SEMDJL1,M1,1,0
+1,-7.3,R-HSA-1474228,Degradation of the extracellular matrix,M1,1,0
+1,-2.8,R-HSA-9759475,Regulation of CDH11 Expression and Function,M1,1,0
+1,-3.7,R-HSA-8875878,MET promotes cell motility,M1,1,0
+1,-5.3,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,M1,1,0
+1,-3.1,R-HSA-9648895,Response of EIF2AK1 (HRI) to heme deficiency,M1,1,0
+1,-6.2,R-HSA-8948216,Collagen chain trimerization,M1,1,0
+1,-2.2,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,M1,1,0
+1,-5,R-HSA-446728,Cell junction organization,M1,1,0
+1,-5.8,R-HSA-449147,Signaling by Interleukins,M1,1,0
+1,-2.9,R-HSA-6794362,Protein-protein interactions at synapses,M1,1,0
+1,-8.2,R-HSA-1442490,Collagen degradation,M1,1,0
+1,-3.8,R-HSA-877300,Interferon gamma signaling,M1,1,0
+1,-4.2,R-HSA-2214320,Anchoring fibril formation,M1,1,0
+1,-6.6,R-HSA-9675108,Nervous system development,M1,1,0
+1,-2.6,R-HSA-977443,GABA receptor activation,M1,1,0
+1,-2.7,R-HSA-2243919,Crosslinking of collagen fibrils,M1,1,0
+1,-2.2,R-HSA-977068,Termination of O-glycan biosynthesis,M1,1,0
+1,-3.5,R-HSA-8963693,Aspartate and asparagine metabolism,M1,1,0
+1,-3.3,R-HSA-3781865,Diseases of glycosylation,M1,1,0
+1,-5.2,R-HSA-141444,Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,M1,1,0
+1,-2.8,R-HSA-69620,Cell Cycle Checkpoints,M1,1,0
+1,-2.1,R-HSA-166520,Signaling by NTRKs,M1,1,0
+1,-2.1,R-HSA-5660526,Response to metal ions,M1,1,0
+1,-4,R-HSA-5663220,RHO GTPases Activate Formins,M1,1,0
+1,-5.2,R-HSA-141424,Amplification of signal from the kinetochores,M1,1,0
+1,-2.7,R-HSA-186797,Signaling by PDGF,M1,1,0
+1,-2.6,R-HSA-445355,Smooth Muscle Contraction,M1,1,0
+1,-3.6,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,M1,1,0
+1,-2,R-HSA-977444,GABA B receptor activation,M1,1,0
+1,-2.1,R-HSA-170834,Signaling by TGF-beta Receptor Complex,M1,1,0
+1,-4,R-HSA-1280218,Adaptive Immune System,M1,1,0
+1,-5.4,R-HSA-112316,Neuronal System,M1,1,0
+1,-3,R-HSA-629587,Highly sodium permeable postsynaptic acetylcholine nicotinic receptors,M1,1,0
+1,-3.4,R-HSA-983189,Kinesins,M1,1,0
+1,-2.6,R-HSA-9764260,Regulation of Expression and Function of Type II Classical Cadherins,M1,1,0
+1,-6.7,R-HSA-422475,Axon guidance,M1,1,0
+1,-3,R-HSA-194315,Signaling by Rho GTPases,M1,1,0
+1,-10,R-HSA-3000178,ECM proteoglycans,M1,1,0
+1,-18,R-HSA-1474244,Extracellular matrix organization,M1,1,0
+1,-2.6,R-HSA-9759476,Regulation of Homotypic Cell-Cell Adhesion,M1,1,0
+1,-6.1,R-HSA-210746,Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells,M1,1,0
+1,-2.2,R-HSA-75205,Dissolution of Fibrin Clot,M1,1,0
+1,-4.1,R-HSA-1500931,Cell-Cell communication,M1,1,0
+1,-2.6,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,M1,1,0
+1,-3.5,R-HSA-210745,Regulation of gene expression in beta cells,M1,1,0
+1,-4.4,R-HSA-372790,Signaling by GPCR,M1,1,0
+1,-9.7,R-HSA-3000171,Non-integrin membrane-ECM interactions,M1,1,0
+1,-2.8,R-HSA-9006936,Signaling by TGFB family members,M1,1,0
+1,-4.9,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation,M1,1,0
+1,-3.6,R-HSA-8874081,MET activates PTK2 signaling,M1,1,0
+1,-2.2,R-HSA-179409,APC-Cdc20 mediated degradation of Nek2A,M1,1,0
+1,-2.8,R-HSA-5621480,Dectin-2 family,M1,1,0
+1,-3.2,R-HSA-452723,Transcriptional regulation of pluripotent stem cells,M1,1,0
+1,-2.7,R-HSA-9762293,Regulation of CDH11 gene transcription,M1,1,0
+1,-2,R-HSA-3772470,Negative regulation of TCF-dependent signaling by WNT ligand antagonists,M1,1,0
+1,-2.4,R-HSA-5661231,Metallothioneins bind metals,M1,1,0
+1,-2,R-HSA-622327,Postsynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-2.1,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,M1,1,0
+1,-2.3,R-HSA-389948,PD-1 signaling,M1,1,0
+1,-2.3,R-HSA-1630316,Glycosaminoglycan metabolism,M1,1,0
+1,-3,R-HSA-373760,L1CAM interactions,M1,1,0
+1,-2.6,R-HSA-3560801,Defective B3GAT3 causes JDSSDHD,M1,1,0
+1,-8.5,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,M1,1,0
+1,-2.3,R-HSA-195258,RHO GTPase Effectors,M1,1,0
+1,-3.5,R-HSA-418594,G alpha (i) signalling events,M1,1,0
+1,-4.6,R-HSA-2132295,MHC class II antigen presentation,M1,1,0
+1,-5.2,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-2.4,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,M1,1,0
+1,-4.4,R-HSA-2555396,Mitotic Metaphase and Anaphase,M1,1,0
+1,-4.2,R-HSA-354194,GRB2:SOS provides linkage to MAPK signaling for Integrins,M1,1,0
+1,-2,R-HSA-9656223,Signaling by RAF1 mutants,M1,1,0
+1,-2.2,R-HSA-1236974,ER-Phagosome pathway,M1,1,0
+1,-6.6,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),M1,1,0
+1,-7.9,R-HSA-109582,Hemostasis,M1,1,0
+1,-3.2,R-HSA-112315,Transmission across Chemical Synapses,M1,1,0
+1,-2.3,R-HSA-629594,Highly calcium permeable postsynaptic nicotinic acetylcholine receptors,M1,1,0
+1,-2.1,R-HSA-170670,Adenylate cyclase inhibitory pathway,M1,1,0
+1,-2.4,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,M1,1,0
+1,-2,R-HSA-991365,Activation of GABAB receptors,M1,1,0
+1,-3.7,R-HSA-9758941,Gastrulation,M1,1,0
+1,-3.9,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,M1,1,0
+1,-3,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),M1,1,0
+1,-2.1,R-HSA-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,M1,1,0
+1,-4.6,R-HSA-3000157,Laminin interactions,M1,1,0
+1,-13,R-HSA-216083,Integrin cell surface interactions,M1,1,0
+1,-2.4,R-HSA-6802948,Signaling by high-kinase activity BRAF mutants,M1,1,0
+1,-2.7,R-HSA-1566948,Elastic fibre formation,M1,1,0
+1,-3.3,R-HSA-2682334,EPH-Ephrin signaling,M1,1,0
+1,-3,R-HSA-1971475,A tetrasaccharide linker sequence is required for GAG synthesis,M1,1,0
+1,-2.1,R-HSA-1640170,Cell Cycle,M1,1,0
+1,-2.3,R-HSA-453276,Regulation of mitotic cell cycle,M1,1,0
+1,-2.9,R-HSA-69278,"Cell Cycle, Mitotic",M1,1,0
+1,-2.2,R-HSA-114608,Platelet degranulation,M1,1,0
+1,-4.1,R-HSA-421270,Cell-cell junction organization,M1,1,0
+1,-5.5,R-HSA-186712,Regulation of beta-cell development,M1,1,0
+1,-4.3,R-HSA-352230,Amino acid transport across the plasma membrane,M1,1,0
+1,-3.2,R-HSA-913709,O-linked glycosylation of mucins,M1,1,0
+1,-2.2,R-HSA-5674135,MAP2K and MAPK activation,M1,1,0
+1,-2.6,R-HSA-442660,Na+/Cl- dependent neurotransmitter transporters,M1,1,0
+1,-2.7,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,M1,1,0
+1,-2.4,R-HSA-202427,Phosphorylation of CD3 and TCR zeta chains,M1,1,0
+1,-2.8,R-HSA-397014,Muscle contraction,M1,1,0
