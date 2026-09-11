@@ -1,0 +1,202 @@
+mes_CC-
+HILPDA
+https://pubmed.ncbi.nlm.nih.gov/36990128/
+
+MGST3
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9806118/
+
+DNAJB6
+https://pubmed.ncbi.nlm.nih.gov/37894814/
+https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-01046-w
+https://www.sciencedirect.com/science/article/abs/pii/S0960896615006720
+
+FAM118A
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426912/
+https://www.ebi.ac.uk/gwas/variants/rs1569414
+
+LIG4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4820809/
+https://academic.oup.com/ibdjournal/article/22/10/2317/4561685?login=false
+
+LMO4 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7290873/
+https://www.biorxiv.org/content/10.1101/2020.07.15.203141v1.full
+
+SSRP1
+https://selfdecode.com/app/snp/rs11229555/
+https://genetics.opentargets.org/variant/11_57112380_C_T
+
+PTPN2 (risk IBD gene)
+https://www.gastrojournal.org/article/S0016-5085(19)30252-5/fulltext
+https://www.gastroscience.ch/research/inflammation/ptpn2-for-the-treatment-of-ibd/#:~:text=Genome%20wide%20association%20studies%20(GWAS,in%20vitro%20and%20in%20vivo.
+https://pubmed.ncbi.nlm.nih.gov/22671596/
+
+UBE4B (paralog of UBE4A)
+https://pubmed.ncbi.nlm.nih.gov/18069675/
+
+
+-------------------------------------------------------------------------------------
+epi_CC-
+CDS1(epithelial marker gene, mediates fos--> tgf-b signaling)
+https://www.pnas.org/doi/pdf/10.1073/pnas.2004281117
+https://platform.opentargets.org/evidence/ENSG00000170345/EFO_0003767
+
+ZBED6CL
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803355/
+
+SAR1A
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9483117/
+
+IDH2
+https://www.sciencedirect.com/science/article/abs/pii/S0891584918305057
+https://pubmed.ncbi.nlm.nih.gov/28554049/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265189
+
+FBXL17 (with TL1A)
+https://hagrid.dbmi.pitt.edu/schizo-pi/index.php/pair/view/9966/84233
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10832088/
+
+ZSCAN31
+https://www.cell.com/cell-genomics/pdfExtended/S2666-979X(22)00211-7
+https://patents.google.com/patent/EP3654993A1/en
+
+SYK
+https://pubmed.ncbi.nlm.nih.gov/29537660/
+https://pubmed.ncbi.nlm.nih.gov/33782605/
+
+BCL-2
+https://academic.oup.com/ibdjournal/article/24/9/1953/5001510
+BCL2 (rs2279115): The homozygous AA genotype is the most common one among Crohn’s patients (65.8%), and the homozygous CC genotype is the most common one in the control group (56.9%, N.S.). The allele A is more common in Crohn’s patients than in the control group (55.3% vs. 44.7%, N.S.).
+https://gredos.usal.es/bitstream/handle/10366/125490/DM_Fern%C3%A1ndezPordomingo_Polimorfismos_RESUMEN%20EN%20INGLES.pdf?sequence=3&isAllowed=y
+
+FSIP2
+https://www.biorxiv.org/content/10.1101/2023.05.05.539635v1.full.pdf
+https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00004501/mbarann_Bibliothek_v9_Doktorarbeit.pdf
+
+PIK3C2G
+https://tspace.library.utoronto.ca/bitstream/1807/43610/19/Kabakchiev_Boyko_T_201311_PhD_thesis.pdf
+https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00004501/mbarann_Bibliothek_v9_Doktorarbeit.pdf
+
+SLC52A3 (riboflavin transporter, epithelial-specific in gut, TNF/NFKB pathway)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6293048/
+
+CAPN13 (lung fibrosis)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582683/
+
+
+-------------------------------------------------------------------------------------
+mes_TG-
+GSTT2B (tgf-b regulated gene)
+
+CHMP1A (myofibroblast activation in IBD)
+https://pubmed.ncbi.nlm.nih.gov/36720220/
+
+INTS12 (GWAS CD)
+
+MRPL34
+https://selfdecode.com/app/snp/rs8170/
+
+LIMK2 (tgf-b regulated gene)(again BCL-2 in fibroblasts)
+https://journals.physiology.org/doi/pdf/10.1152/physrev.00005.2021
+https://web.archive.org/web/20200208024010id_/
+https://www.zora.uzh.ch/id/eprint/158502/1/23456.pdf
+
+ITSN2 (pulmonary fibrosis)
+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1268510/full
+
+
+-------------------------------------------------------------------------------------
+epi_TG-
+CHST7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10239181/
+
+ZBED6CL
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803355/
+
+PRSS33 (eosinophil-associated-look at expression levels)
+https://platform.opentargets.org/evidence/ENSG00000103355/EFO_0003767
+
+TTC26 (ciliopathy)
+
+EIF3J
+https://hagrid.dbmi.pitt.edu/schizo-pi/index.php/pair/view/8669/8663
+https://www.gwascentral.org/generegion/phenotypes?format=html&m=all&page=2&q=EIF3J&t=ZERO
+
+CFH (kidney and lung fibrosis)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10460912/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258316
+
+ADGRG2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8105302/
+https://academic.oup.com/ecco-jcc/article/15/Supplement_1/S131/6286016
+
+
+-------------------------------------------------------------------------------------
+mes_TN-
+PER2 (TNF-responsive)(RA-related thorugh GWAS)
+https://www.science.org/doi/10.1126/sciadv.abb5202
+https://pubmed.ncbi.nlm.nih.gov/17646651/
+https://www.spandidos-publications.com/10.3892/mmr.2017.6578
+
+LGMN (GIMATS anti-tnf response module)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500628/
+
+DIP2C (EMT)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513093/
+
+RAB21 (integrin signaling)
+
+PCDH7 (myofibroblast activation)(RNAi screening identifies a mechanosensitive ROCK-JAK2- STAT3 network central to myofibroblast activation)
+
+ITM2C (inflammed IBD)
+https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00001912/d1912.pdf
+
+
+-------------------------------------------------------------------------------------
+epi_TN-
+PLB1 (GWAS for RA)
+https://www.sanger.ac.uk/theses/egs-thesis.pdf
+
+SLC52A3 (riboflavin transporter, epithelial-specific in gut, TNF/NFKB pathway)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6293048/
+
+NPHP3 (response to anti-TNF in CD)(liver fibrosis GWAS)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6764039/
+https://www.sciencedirect.com/science/article/pii/S0085253815537848
+
+EFCAB7 (CD GWAS)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3542460/
+
+DUSP14 (TNF/IL1)(TNF response in IBD)
+https://pubmed.ncbi.nlm.nih.gov/23229544/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7024800/
+
+LRRC61 (severe UC)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498489/
+
+ACSL1 (IBD)(IBD fibrosis)
+https://www.sciencedirect.com/science/article/pii/S0925443905001870
+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1058237/full
+
+
+-------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
