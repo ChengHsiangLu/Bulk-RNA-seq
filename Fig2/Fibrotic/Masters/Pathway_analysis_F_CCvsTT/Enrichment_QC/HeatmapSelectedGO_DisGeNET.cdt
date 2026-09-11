@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	up_common_genes	up_mes_only	down_epi_only	down_mes_only	down_common_genes	down_mes_up_epi	up_epi_only	up_mes_down_epi
+AID				ARRY5X	ARRY8X	ARRY2X	ARRY3X	ARRY1X	ARRY4X	ARRY6X	ARRY7X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE10X	C2316810	Chronic kidney disease stage 5	1	0.180	-0.000	0.605	-0.000	-0.000	-0.000	0.161	0.142
+GENE2X	C0038013	Ankylosing spondylitis	1	0.543	0.125	-0.000	-0.000	-0.000	-0.000	0.192	0.109
+GENE17X	C0004623	Bacterial Infections	1	0.656	0.231	-0.000	-0.000	-0.000	-0.000	0.112	0.208
+GENE16X	C0153690	Secondary malignant neoplasm of bone	1	0.550	0.121	0.125	0.145	-0.000	-0.000	-0.000	-0.000
+GENE9X	C0004943	Behcet Syndrome	1	0.631	0.144	0.162	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	C0021368	Inflammation	1	0.534	0.214	0.179	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE8X	C3495559	Juvenile arthritis	1	0.684	0.138	-0.000	-0.000	-0.000	-0.000	-0.000	0.131
+GENE3X	C2062441	Influenza A	1	0.619	0.148	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE19X	C0151449	Primary Sjögren's syndrome	1	0.658	0.142	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE18X	C0220597	Adult Hodgkin Lymphoma	1	0.556	0.286	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE13X	C0220644	Childhood Hodgkin Lymphoma	1	0.556	0.286	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE1X	C3714514	Infection	1	0.686	0.203	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE5X	C0011603	Dermatitis	1	0.550	0.230	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE15X	C0026896	Myasthenia Gravis	1	0.627	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE12X	C1868683	B-CELL MALIGNANCY, LOW-GRADE	1	0.562	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE11X	C1290884	Inflammatory disorder	1	0.519	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE4X	C2347747	Adult Classical Hodgkin Lymphoma	1	0.565	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE6X	C1333064	Classical Hodgkin's Lymphoma	1	0.594	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE7X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	0.534	0.108	-0.000	-0.000	-0.000	-0.000	0.139	-0.000
+GENE20X	C0011644	Scleroderma	1	0.555	-0.000	-0.000	-0.000	-0.000	-0.000	0.125	-0.000

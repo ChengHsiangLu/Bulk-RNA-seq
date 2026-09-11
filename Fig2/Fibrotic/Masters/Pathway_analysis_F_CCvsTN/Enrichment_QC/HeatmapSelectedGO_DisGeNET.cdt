@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	down_epi_only	up_mes_only	down_mes_only	down_common_genes	down_mes_up_epi	up_mes_down_epi	up_common_genes	up_epi_only
+AID				ARRY2X	ARRY8X	ARRY3X	ARRY1X	ARRY4X	ARRY7X	ARRY5X	ARRY6X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE12X	C0030246	Pustulosis of Palms and Soles	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.583	0.167
+GENE19X	C0220597	Adult Hodgkin Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.683	0.105
+GENE14X	C0220644	Childhood Hodgkin Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.683	0.105
+GENE15X	C0149678	Epstein-Barr Virus Infections	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.655	0.110
+GENE3X	C0038013	Ankylosing spondylitis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.630	0.565
+GENE17X	C0004623	Bacterial Infections	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.754	0.562
+GENE9X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.607	0.273
+GENE20X	C0151449	Primary Sjögren's syndrome	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.755	0.349
+GENE13X	C3875321	Inflammatory dermatosis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.658	0.330
+GENE10X	C3495559	Juvenile arthritis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.582	0.389
+GENE1X	C3714514	Infection	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.711	0.325
+GENE7X	C0011603	Dermatitis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.750	0.356
+GENE2X	C0003872	Arthritis, Psoriatic	1	0.101	0.122	-0.000	-0.000	-0.000	-0.000	0.625	0.283
+GENE11X	C0004943	Behcet Syndrome	1	0.172	0.104	-0.000	-0.000	-0.000	-0.000	0.656	0.223
+GENE5X	C0024143	Lupus Nephritis	1	0.104	-0.000	-0.000	0.101	-0.000	-0.000	0.613	0.317
+GENE16X	C0376618	Endotoxemia	1	0.119	-0.000	-0.000	-0.000	-0.000	-0.000	0.152	0.555
+GENE18X	C0011615	Dermatitis, Atopic	1	0.187	-0.000	-0.000	-0.000	-0.000	-0.000	0.674	0.368
+GENE4X	C0036220	Kaposi Sarcoma	1	-0.000	0.130	0.110	-0.000	-0.000	-0.000	0.628	0.147
+GENE6X	C2347747	Adult Classical Hodgkin Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.574	-0.000
+GENE8X	C1333064	Classical Hodgkin's Lymphoma	1	-0.000	-0.000	0.113	-0.000	-0.000	-0.000	0.696	-0.000

@@ -1,0 +1,51 @@
+Network,Annotation
+down_common_genes,R-HSA-8978868|Fatty acid metabolism|-8.5;GO:0046395|carboxylic acid catabolic process|-8.3;GO:0016054|organic acid catabolic process|-8.3
+down_common_genes_MCODE_ALL,hsa04020|Calcium signaling pathway|-9.1;hsa04070|Phosphatidylinositol signaling system|-7.9;R-HSA-1483249|Inositol phosphate metabolism|-7.2
+down_common_genes_SUB1_MCODE_1,hsa04020|Calcium signaling pathway|-12.1;hsa04070|Phosphatidylinositol signaling system|-9.9;hsa04151|PI3K-Akt signaling pathway|-8.9
+down_common_genes_SUB1_MCODE_2,GO:0072329|monocarboxylic acid catabolic process|-6.7;GO:0046395|carboxylic acid catabolic process|-5.8;GO:0016054|organic acid catabolic process|-5.8
+down_common_genes_SUB1_MCODE_4,GO:0009435|NAD biosynthetic process|-9.3;GO:0019359|nicotinamide nucleotide biosynthetic process|-9.2;GO:0019363|pyridine nucleotide biosynthetic process|-9.2
+down_epi_only,GO:0019752|carboxylic acid metabolic process|-18.5;GO:1901615|organic hydroxy compound metabolic process|-17.8;GO:0044282|small molecule catabolic process|-13.7
+down_epi_only_MCODE_ALL,WP702|Metapathway biotransformation Phase I and II|-11.1;GO:0050878|regulation of body fluid levels|-10.4;R-HSA-140875|Common Pathway of Fibrin Clot Formation|-8.2
+down_epi_only_SUB1_MCODE_1,R-HSA-416476|G alpha (q) signalling events|-10.8;R-HSA-388396|GPCR downstream signalling|-8.4;R-HSA-372790|Signaling by GPCR|-8.2
+down_epi_only_SUB1_MCODE_2,GO:0019318|hexose metabolic process|-5.9;GO:0005996|monosaccharide metabolic process|-5.7;GO:0005975|carbohydrate metabolic process|-4.5
+down_epi_only_SUB1_MCODE_3,R-HSA-913709|O-linked glycosylation of mucins|-10.7;R-HSA-5173105|O-linked glycosylation|-9.8;hsa00512|Mucin type O-glycan biosynthesis|-8.2
+down_epi_only_SUB1_MCODE_5,R-HSA-140875|Common Pathway of Fibrin Clot Formation|-9.5;R-HSA-140877|Formation of Fibrin Clot (Clotting Cascade)|-8.7;WP558|Complement and coagulation cascades|-8.2
+down_epi_only_SUB1_MCODE_6,hsa05204|Chemical carcinogenesis - DNA adducts|-7.9;hsa00982|Drug metabolism - cytochrome P450|-7.9;R-HSA-9748784|Drug ADME|-7.3
+down_epi_only_SUB1_MCODE_7,R-HSA-936837|Ion transport by P-type ATPases|-8.2;R-HSA-983712|Ion channel transport|-6.6;GO:0030003|intracellular monoatomic cation homeostasis|-5.6
+down_epi_only_SUB2_MCODE_8,WP702|Metapathway biotransformation Phase I and II|-6.7
+down_mes_only,GO:0120039|plasma membrane bounded cell projection morphogenesis|-9.9;GO:0048858|cell projection morphogenesis|-9.8;GO:0048667|cell morphogenesis involved in neuron differentiation|-9.7
+down_mes_only_MCODE_ALL,R-HSA-9772755|Formation of WDR5-containing histone-modifying complexes|-8.2;R-HSA-1368082|RORA activates gene expression|-6.9;R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-6.9
+down_mes_only_SUB1_MCODE_1,R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-8.7;R-HSA-9843745|Adipogenesis|-8.3;R-HSA-1368082|RORA activates gene expression|-8.2
+down_mes_up_epi,GO:0071560|cellular response to transforming growth factor beta stimulus|-7.5;GO:0071559|response to transforming growth factor beta|-7.3;GO:1901699|cellular response to nitrogen compound|-6.4
+down_mes_up_epi_MCODE_ALL,GO:0017015|regulation of transforming growth factor beta receptor signaling pathway|-4.8;GO:1903844|regulation of cellular response to transforming growth factor beta stimulus|-4.8;GO:0000165|MAPK cascade|-4.6
+down_mes_up_epi_SUB1_MCODE_1,GO:0017015|regulation of transforming growth factor beta receptor signaling pathway|-5.4;GO:1903844|regulation of cellular response to transforming growth factor beta stimulus|-5.4;GO:0000165|MAPK cascade|-5.2
+down_mes_up_epi_SUB2_MCODE_2,GO:0016567|protein ubiquitination|-5.1;GO:0032446|protein modification by small protein conjugation|-4.9
+up_common_genes,R-HSA-1280215|Cytokine Signaling in Immune system|-41.1;M5890|HALLMARK TNFA SIGNALING VIA NFKB|-36.6;hsa05169|Epstein-Barr virus infection|-36.5
+up_common_genes_MCODE_ALL,hsa05169|Epstein-Barr virus infection|-43.9;R-HSA-1280215|Cytokine Signaling in Immune system|-40.7;R-HSA-1168372|Downstream signaling events of B Cell Receptor (BCR)|-36.6
+up_common_genes_SUB1_MCODE_1,R-HSA-9020702|Interleukin-1 signaling|-45.1;R-HSA-1169091|Activation of NF-kappaB in B cells|-43.8;R-HSA-446652|Interleukin-1 family signaling|-42.5
+up_common_genes_SUB1_MCODE_2,"GO:0019885|antigen processing and presentation of endogenous peptide antigen via MHC class I|-17.1;GO:0002483|antigen processing and presentation of endogenous peptide antigen|-16.9;R-HSA-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-16.4"
+up_common_genes_SUB1_MCODE_3,M36|PID IL27 PATHWAY|-10.3;WP4666|Hepatitis B infection|-9.4;hsa05161|Hepatitis B|-9.3
+up_common_genes_SUB1_MCODE_4,GO:0030048|actin filament-based movement|-7.4;hsa04814|Motor proteins|-6.6;GO:0030036|actin cytoskeleton organization|-5.2
+up_epi_only,R-HSA-1280215|Cytokine Signaling in Immune system|-20.5;R-HSA-913531|Interferon Signaling|-13.4;GO:0009615|response to virus|-11.0
+up_epi_only_MCODE_ALL,R-HSA-1280215|Cytokine Signaling in Immune system|-11.7;WP3929|Chemokine signaling pathway|-11.7;hsa04062|Chemokine signaling pathway|-11.2
+up_epi_only_SUB1_MCODE_1,hsa05130|Pathogenic Escherichia coli infection|-6.7;WP4136|Fibrin complement receptor 3 signaling pathway|-6.7;GO:0009612|response to mechanical stimulus|-6.5
+up_epi_only_SUB1_MCODE_2,R-HSA-418594|G alpha (i) signalling events|-11.9;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-11.8;R-HSA-500792|GPCR ligand binding|-10.9
+up_epi_only_SUB1_MCODE_3,hsa05135|Yersinia infection|-6.4;GO:0007264|small GTPase-mediated signal transduction|-5.6;GO:0007015|actin filament organization|-5.5
+up_epi_only_SUB1_MCODE_4,M22063|BIOCARTA STAT3 PATHWAY|-10.9;M8066|BIOCARTA IL22BP PATHWAY|-10.7;GO:0060397|growth hormone receptor signaling pathway via JAK-STAT|-10.6
+up_epi_only_SUB1_MCODE_5,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-7.4;hsa04060|Cytokine-cytokine receptor interaction|-6.0;R-HSA-1280215|Cytokine Signaling in Immune system|-4.8
+up_mes_down_epi,M5924|HALLMARK MTORC1 SIGNALING|-28.6;WP4718|Cholesterol metabolism with Bloch and Kandutsch Russell pathways|-24.3;GO:0016126|sterol biosynthetic process|-21.1
+up_mes_down_epi_MCODE_ALL,WP4718|Cholesterol metabolism with Bloch and Kandutsch Russell pathways|-13.8;M5924|HALLMARK MTORC1 SIGNALING|-13.2;WP5329|Cholesterol biosynthesis pathway in hepatocytes|-11.9
+up_mes_down_epi_SUB1_MCODE_1,GO:0098761|cellular response to interleukin-7|-7.4;GO:0098760|response to interleukin-7|-7.3;R-HSA-5368286|Mitochondrial translation initiation|-6.9
+up_mes_down_epi_SUB1_MCODE_2,hsa00480|Glutathione metabolism|-6.3;GO:0051604|protein maturation|-3.5
+up_mes_down_epi_SUB1_MCODE_3,hsa00071|Fatty acid degradation|-6.8;M5924|HALLMARK MTORC1 SIGNALING|-4.8;GO:0006457|protein folding|-4.7
+up_mes_down_epi_SUB1_MCODE_4,R-HSA-1799339|SRP-dependent cotranslational protein targeting to membrane|-5.8;hsa04141|Protein processing in endoplasmic reticulum|-5.2;R-HSA-72766|Translation|-4.5
+up_mes_down_epi_SUB1_MCODE_5,hsa00100|Steroid biosynthesis|-11.3;GO:0046165|alcohol biosynthetic process|-11.3;R-HSA-191273|Cholesterol biosynthesis|-10.8
+up_mes_down_epi_SUB1_MCODE_6,hsa05208|Chemical carcinogenesis - reactive oxygen species|-8.5;R-HSA-611105|Respiratory electron transport|-6.7;GO:0006119|oxidative phosphorylation|-6.6
+up_mes_down_epi_SUB1_MCODE_7,WP437|EGF EGFR signaling pathway|-6.8;hsa05417|Lipid and atherosclerosis|-6.5;GO:0007264|small GTPase-mediated signal transduction|-6.2
+up_mes_only,GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-12.0;GO:0006886|intracellular protein transport|-11.2;R-HSA-72766|Translation|-11.2
+up_mes_only_MCODE_ALL,R-HSA-446203|Asparagine N-linked glycosylation|-16.1;GO:0022613|ribonucleoprotein complex biogenesis|-15.3;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-15.2
+up_mes_only_SUB1_MCODE_1,R-HSA-199977|ER to Golgi Anterograde Transport|-21.0;R-HSA-948021|Transport to the Golgi and subsequent modification|-20.0;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-17.5
+up_mes_only_SUB1_MCODE_2,R-HSA-72766|Translation|-7.3;GO:0030490|maturation of SSU-rRNA|-5.1;M5905|HALLMARK ADIPOGENESIS|-4.9
+up_mes_only_SUB1_MCODE_3,R-HSA-5419276|Mitochondrial translation termination|-7.5;R-HSA-5368287|Mitochondrial translation|-7.4;GO:0032543|mitochondrial translation|-7.1
+up_mes_only_SUB1_MCODE_5,GO:0006412|translation|-6.4;GO:0043043|peptide biosynthetic process|-6.3;GO:0043604|amide biosynthetic process|-5.8
+up_mes_only_SUB1_MCODE_7,hsa04141|Protein processing in endoplasmic reticulum|-6.8

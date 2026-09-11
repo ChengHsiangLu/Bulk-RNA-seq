@@ -1,0 +1,50 @@
+Network,Annotation
+down_common_genes,GO:0019752|carboxylic acid metabolic process|-12.2;M5935|HALLMARK FATTY ACID METABOLISM|-11.9;GO:0016054|organic acid catabolic process|-11.8
+down_common_genes_MCODE_ALL,GO:0046395|carboxylic acid catabolic process|-14.2;GO:0016054|organic acid catabolic process|-14.2;GO:0006631|fatty acid metabolic process|-12.6
+down_common_genes_SUB1_MCODE_1,R-HSA-69236|G1 Phase|-8.4;R-HSA-69231|Cyclin D associated events in G1|-8.4;R-HSA-69202|Cyclin E associated events during G1/S transition|-7.4
+down_common_genes_SUB1_MCODE_2,GO:0006631|fatty acid metabolic process|-19.8;GO:0046395|carboxylic acid catabolic process|-18.1;GO:0016054|organic acid catabolic process|-18.1
+down_common_genes_SUB1_MCODE_3,GO:0016072|rRNA metabolic process|-12.5;GO:0034660|ncRNA metabolic process|-10.5;GO:0006364|rRNA processing|-10.0
+down_common_genes_SUB1_MCODE_4,GO:0006260|DNA replication|-6.0;GO:0006281|DNA repair|-4.7;GO:0006351|DNA-templated transcription|-4.7
+down_epi_only,GO:0042254|ribosome biogenesis|-24.9;GO:0022613|ribonucleoprotein complex biogenesis|-22.0;GO:0034660|ncRNA metabolic process|-21.8
+down_epi_only_MCODE_ALL,R-HSA-5368287|Mitochondrial translation|-24.8;GO:0032543|mitochondrial translation|-23.7;GO:0140053|mitochondrial gene expression|-21.8
+down_epi_only_SUB1_MCODE_1,R-HSA-5368287|Mitochondrial translation|-35.3;GO:0032543|mitochondrial translation|-34.2;GO:0140053|mitochondrial gene expression|-32.3
+down_epi_only_SUB1_MCODE_2,GO:0042254|ribosome biogenesis|-12.2;GO:0006364|rRNA processing|-11.3;GO:0016072|rRNA metabolic process|-10.8
+down_epi_only_SUB1_MCODE_3,hsa00071|Fatty acid degradation|-9.6;hsa01212|Fatty acid metabolism|-9.1;GO:0006631|fatty acid metabolic process|-8.1
+down_epi_only_SUB1_MCODE_4,R-HSA-8868773|rRNA processing in the nucleus and cytosol|-13.2;R-HSA-72312|rRNA processing|-13.0;GO:0006364|rRNA processing|-12.9
+down_epi_only_SUB1_MCODE_6,R-HSA-159234|Transport of Mature mRNAs Derived from Intronless Transcripts|-11.5;R-HSA-72202|Transport of Mature Transcript to Cytoplasm|-10.3;R-HSA-159230|Transport of the SLBP Dependant Mature mRNA|-8.2
+down_mes_only,GO:0036293|response to decreased oxygen levels|-8.3;GO:0070482|response to oxygen levels|-7.8;GO:0001666|response to hypoxia|-6.8
+down_mes_only_MCODE_ALL,hsa04360|Axon guidance|-8.5;GO:0048013|ephrin receptor signaling pathway|-7.4;R-HSA-3928665|EPH-ephrin mediated repulsion of cells|-7.3
+down_mes_only_SUB1_MCODE_1,R-HSA-3371453|Regulation of HSF1-mediated heat shock response|-6.4;R-HSA-1169408|ISG15 antiviral mechanism|-6.3;M115|PID REG GR PATHWAY|-6.2
+down_mes_only_SUB1_MCODE_2,GO:0048013|ephrin receptor signaling pathway|-11.2;R-HSA-3928665|EPH-ephrin mediated repulsion of cells|-11.1;R-HSA-2682334|EPH-Ephrin signaling|-10.1
+down_mes_only_SUB1_MCODE_5,GO:0018193|peptidyl-amino acid modification|-5.3
+down_mes_up_epi,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-23.9;M5890|HALLMARK TNFA SIGNALING VIA NFKB|-23.9;R-HSA-1280215|Cytokine Signaling in Immune system|-23.2
+down_mes_up_epi_MCODE_ALL,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-21.0;R-HSA-1280215|Cytokine Signaling in Immune system|-16.4;R-HSA-449147|Signaling by Interleukins|-14.4
+down_mes_up_epi_SUB1_MCODE_1,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-16.0;R-HSA-449147|Signaling by Interleukins|-12.6;R-HSA-1280215|Cytokine Signaling in Immune system|-12.5
+down_mes_up_epi_SUB1_MCODE_2,GO:0050770|regulation of axonogenesis|-6.3;hsa04360|Axon guidance|-6.1;R-HSA-376176|Signaling by ROBO receptors|-5.8
+down_mes_up_epi_SUB1_MCODE_3,R-HSA-936440|Negative regulators of DDX58/IFIH1 signaling|-8.8;R-HSA-168928|DDX58/IFIH1-mediated induction of interferon-alpha/beta|-7.7;R-HSA-9833110|RSV-host interactions|-7.5
+down_mes_up_epi_SUB1_MCODE_4,R-HSA-9013404|RAC2 GTPase cycle|-7.6;R-HSA-9012999|RHO GTPase cycle|-5.5;R-HSA-194315|Signaling by Rho GTPases|-4.9
+down_mes_up_epi_SUB1_MCODE_5,R-HSA-5684264|MAP3K8 (TPL2)-dependent MAPK1/3 activation|-9.9;R-HSA-450294|MAP kinase activation|-8.0;R-HSA-448424|Interleukin-17 signaling|-7.9
+up_common_genes,M5930|HALLMARK EPITHELIAL MESENCHYMAL TRANSITION|-29.1;GO:0030029|actin filament-based process|-26.3;GO:0030036|actin cytoskeleton organization|-24.7
+up_common_genes_MCODE_ALL,hsa04820|Cytoskeleton in muscle cells|-20.0;M5930|HALLMARK EPITHELIAL MESENCHYMAL TRANSITION|-16.9;GO:0030029|actin filament-based process|-15.5
+up_common_genes_SUB1_MCODE_1,R-HSA-445355|Smooth Muscle Contraction|-15.2;GO:0030029|actin filament-based process|-12.6;R-HSA-397014|Muscle contraction|-11.1
+up_common_genes_SUB1_MCODE_2,R-HSA-195258|RHO GTPase Effectors|-8.1;R-HSA-422475|Axon guidance|-7.0;R-HSA-9675108|Nervous system development|-6.9
+up_common_genes_SUB1_MCODE_3,M160|PID AVB3 INTEGRIN PATHWAY|-15.8;R-HSA-1474228|Degradation of the extracellular matrix|-14.1;R-HSA-8948216|Collagen chain trimerization|-13.5
+up_common_genes_SUB1_MCODE_4,M60|PID NFAT TFPATHWAY|-10.7;M235|PID TCR CALCIUM PATHWAY|-8.2;M272|PID CD8 TCR DOWNSTREAM PATHWAY|-7.0
+up_common_genes_SUB1_MCODE_5,hsa04820|Cytoskeleton in muscle cells|-8.5;GO:0061061|muscle structure development|-7.1;GO:0030036|actin cytoskeleton organization|-7.0
+up_common_genes_SUB1_MCODE_6,R-HSA-446353|Cell-extracellular matrix interactions|-9.8;R-HSA-446728|Cell junction organization|-7.3;GO:0010811|positive regulation of cell-substrate adhesion|-7.2
+up_common_genes_SUB1_MCODE_7,R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-7.5;R-HSA-8856688|Golgi-to-ER retrograde transport|-7.1;R-HSA-6811442|Intra-Golgi and retrograde Golgi-to-ER traffic|-6.5
+up_epi_only,"R-HSA-194315|Signaling by Rho GTPases|-9.8;R-HSA-9716542|Signaling by Rho GTPases, Miro GTPases and RHOBTB3|-9.6;GO:0120035|regulation of plasma membrane bounded cell projection organization|-9.6"
+up_epi_only_MCODE_ALL,R-HSA-199991|Membrane Trafficking|-12.0;R-HSA-5653656|Vesicle-mediated transport|-11.7;hsa04814|Motor proteins|-11.6
+up_epi_only_SUB1_MCODE_1,"hsa05132|Salmonella infection|-12.4;R-HSA-194315|Signaling by Rho GTPases|-8.8;R-HSA-9716542|Signaling by Rho GTPases, Miro GTPases and RHOBTB3|-8.7"
+up_epi_only_SUB1_MCODE_2,R-HSA-983189|Kinesins|-10.2;GO:0007018|microtubule-based movement|-9.5;R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-9.3
+up_mes_down_epi,M5924|HALLMARK MTORC1 SIGNALING|-13.6;M5926|HALLMARK MYC TARGETS V1|-12.3;GO:0034660|ncRNA metabolic process|-12.2
+up_mes_down_epi_MCODE_ALL,GO:0006412|translation|-13.1;GO:0043043|peptide biosynthetic process|-12.8;GO:0043604|amide biosynthetic process|-11.5
+up_mes_down_epi_SUB1_MCODE_1,GO:0006412|translation|-13.5;GO:0043043|peptide biosynthetic process|-13.2;GO:0043604|amide biosynthetic process|-12.4
+up_mes_down_epi_SUB1_MCODE_2,R-HSA-6790901|rRNA modification in the nucleus and cytosol|-11.5;R-HSA-8868773|rRNA processing in the nucleus and cytosol|-11.3;R-HSA-72312|rRNA processing|-11.1
+up_mes_down_epi_SUB1_MCODE_3,"R-HSA-611105|Respiratory electron transport|-7.7;R-HSA-163200|Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.|-7.3;M5936|HALLMARK OXIDATIVE PHOSPHORYLATION|-6.6"
+up_mes_only,GO:0048193|Golgi vesicle transport|-29.3;R-HSA-446203|Asparagine N-linked glycosylation|-26.8;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-23.1
+up_mes_only_MCODE_ALL,R-HSA-446203|Asparagine N-linked glycosylation|-24.6;R-HSA-199977|ER to Golgi Anterograde Transport|-23.0;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-22.1
+up_mes_only_SUB1_MCODE_1,R-HSA-199977|ER to Golgi Anterograde Transport|-23.5;R-HSA-948021|Transport to the Golgi and subsequent modification|-22.6;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-21.6
+up_mes_only_SUB1_MCODE_2,GO:0030199|collagen fibril organization|-8.2;R-HSA-1650814|Collagen biosynthesis and modifying enzymes|-8.0;R-HSA-1474290|Collagen formation|-7.5
+up_mes_only_SUB1_MCODE_4,R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-7.5;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-7.2;R-HSA-8856688|Golgi-to-ER retrograde transport|-7.1
+up_mes_only_SUB1_MCODE_5,R-HSA-1971475|A tetrasaccharide linker sequence is required for GAG synthesis|-9.3;R-HSA-3560782|Diseases associated with glycosaminoglycan metabolism|-8.6;R-HSA-1793185|Chondroitin sulfate/dermatan sulfate metabolism|-8.4

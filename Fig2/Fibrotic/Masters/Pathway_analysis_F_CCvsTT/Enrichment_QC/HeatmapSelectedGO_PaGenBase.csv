@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00080,Cell-specific: Adipocyte,-2.3985788723166426,-2.6516259435483303,-5.006730628458815,0.0,0.0,0.0,-2.4241653898911366,0.0
+PGB:00098,Cell-specific: LN18,0.0,0.0,-3.8950709895242985,0.0,0.0,0.0,0.0,0.0
+PGB:00065,Cell-specific: DRG,0.0,-2.761648366830622,-3.943370892525576,-3.0652714838743074,0.0,-3.3933400204973134,0.0,0.0
+PGB:00002,Tissue-specific: kidney,0.0,-12.254515447148615,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00060,Cell-specific: liver cell,0.0,-14.900217770017662,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00139,Cell-specific: Renal Epithelial,0.0,-10.879174565365318,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00005,Tissue-specific: colon,0.0,-13.663755616854,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,0.0,-34.081223599429265,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00105,Cell-specific: huh-7,0.0,-8.067383596993368,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00006,Tissue-specific: small intestine,0.0,-8.128719515296916,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00106,Cell-specific: Breast cell,0.0,-4.227046403286897,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00001,Tissue-specific: liver,0.0,-45.30135115870319,0.0,0.0,0.0,0.0,-5.5461747045753125,0.0
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-10.508751345566159,0.0,-2.3877227468756548,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-5.130795348557305,0.0,-2.485446848913798,0.0
+PGB:00110,Cell-specific: Lymphoma burkitts Raji,0.0,0.0,0.0,0.0,-4.804305496903587,0.0,0.0,0.0
+PGB:00026,Tissue-specific: Blood,0.0,0.0,0.0,0.0,-4.699999887576333,0.0,0.0,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,0.0,-5.001639704586019,0.0,0.0,0.0
+PGB:00081,Cell-specific: Brain cell,0.0,0.0,0.0,0.0,-3.746035488111173,0.0,0.0,0.0
+PGB:00094,Cell-specific: Bronchial Epithelial Cells,0.0,0.0,0.0,0.0,-3.131603165506179,-5.206831613104563,0.0,0.0
+PGB:00071,Cell-specific: HUVEC,0.0,0.0,0.0,0.0,-2.57431163564773,-4.261212698363632,0.0,0.0

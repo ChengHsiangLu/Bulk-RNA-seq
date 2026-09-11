@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	down_epi_only	up_common_genes	up_epi_only	up_mes_down_epi	down_mes_only	down_mes_up_epi	down_common_genes	up_mes_only
+AID				ARRY2X	ARRY5X	ARRY6X	ARRY7X	ARRY3X	ARRY4X	ARRY1X	ARRY8X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE5X	PGB:00071	Cell-specific: HUVEC	1	-0.000	0.129	0.213	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE13X	PGB:00094	Cell-specific: Bronchial Epithelial Cells	1	-0.000	0.157	0.260	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE2X	PGB:00081	Cell-specific: Brain cell	1	-0.000	0.187	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE11X	PGB:00008	Tissue-specific: spleen	1	-0.000	0.250	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE4X	PGB:00026	Tissue-specific: Blood	1	-0.000	0.235	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE9X	PGB:00110	Cell-specific: Lymphoma burkitts Raji	1	-0.000	0.240	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE6X	PGB:00133	Cell-specific: Cardiac Myocytes	1	-0.000	0.257	-0.000	0.124	-0.000	-0.000	-0.000	-0.000
+GENE15X	PGB:00011	Tissue-specific: Smooth Muscle	1	-0.000	0.525	-0.000	0.119	-0.000	-0.000	-0.000	-0.000
+GENE20X	PGB:00001	Tissue-specific: liver	1	1.000	-0.000	-0.000	0.277	-0.000	-0.000	-0.000	-0.000
+GENE1X	PGB:00106	Cell-specific: Breast cell	1	0.211	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	PGB:00006	Tissue-specific: small intestine	1	0.406	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE18X	PGB:00105	Cell-specific: huh-7	1	0.403	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE3X	PGB:00058	Cell-specific: HEPG2	1	1.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE19X	PGB:00005	Tissue-specific: colon	1	0.683	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE16X	PGB:00139	Cell-specific: Renal Epithelial	1	0.544	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE7X	PGB:00060	Cell-specific: liver cell	1	0.745	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE12X	PGB:00002	Tissue-specific: kidney	1	0.613	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE8X	PGB:00065	Cell-specific: DRG	1	0.138	-0.000	0.170	-0.000	0.197	0.153	-0.000	-0.000
+GENE10X	PGB:00098	Cell-specific: LN18	1	-0.000	-0.000	-0.000	-0.000	0.195	-0.000	-0.000	-0.000
+GENE17X	PGB:00080	Cell-specific: Adipocyte	1	0.133	-0.000	-0.000	0.121	0.250	-0.000	0.120	-0.000

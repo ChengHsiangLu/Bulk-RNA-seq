@@ -1,0 +1,18 @@
+GID	GENE	NAME	GWEIGHT	up_common_genes	down_common_genes	down_mes_up_epi	up_mes_only	up_epi_only	down_epi_only	down_mes_only	up_mes_down_epi
+AID				ARRY5X	ARRY1X	ARRY4X	ARRY8X	ARRY6X	ARRY2X	ARRY3X	ARRY7X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE2X	PGB:00011	Tissue-specific: Smooth Muscle	1	0.454	-0.000	-0.000	0.232	-0.000	-0.000	-0.000	-0.000
+GENE3X	PGB:00081	Cell-specific: Brain cell	1	0.296	0.125	-0.000	0.132	-0.000	-0.000	-0.000	-0.000
+GENE15X	PGB:00001	Tissue-specific: liver	1	-0.000	0.119	-0.000	-0.000	-0.000	0.161	-0.000	-0.000
+GENE4X	PGB:00058	Cell-specific: HEPG2	1	-0.000	0.165	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE5X	PGB:00128	Cell-specific: COLO205	1	-0.000	0.145	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE12X	PGB:00094	Cell-specific: Bronchial Epithelial Cells	1	-0.000	-0.000	0.207	-0.000	0.107	-0.000	-0.000	-0.000
+GENE6X	PGB:00051	Tissue-specific: Corpus	1	-0.000	-0.000	0.134	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE11X	PGB:00008	Tissue-specific: spleen	1	-0.000	-0.000	0.117	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE1X	PGB:00104	Cell-specific: CD33+ Myeloid	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.103	-0.000
+GENE8X	PGB:00069	Cell-specific: CD71+ EarlyErythroid	1	0.108	-0.000	-0.000	-0.000	0.102	-0.000	-0.000	-0.000
+GENE13X	PGB:00133	Cell-specific: Cardiac Myocytes	1	0.376	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	PGB:00028	Tissue-specific: skeletal muscle	1	0.145	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE10X	PGB:00071	Cell-specific: HUVEC	1	0.123	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE7X	PGB:00029	Tissue-specific: placenta	1	0.122	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE9X	PGB:00035	Tissue-specific: ovary	1	0.120	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000

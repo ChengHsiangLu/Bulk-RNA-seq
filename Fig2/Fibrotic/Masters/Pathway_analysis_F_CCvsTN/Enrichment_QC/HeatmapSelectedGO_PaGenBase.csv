@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00031,Tissue-specific: trachea,0.0,-3.3588303718635286,0.0,0.0,0.0,-2.0958057852255148,0.0,0.0
+PGB:00005,Tissue-specific: colon,0.0,-12.470023249718665,0.0,0.0,0.0,-2.551698509712617,0.0,0.0
+PGB:00060,Cell-specific: liver cell,0.0,-12.022642791999003,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,0.0,-25.104949362275473,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00006,Tissue-specific: small intestine,0.0,-9.964594032198667,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00002,Tissue-specific: kidney,0.0,-9.976368430318916,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00139,Cell-specific: Renal Epithelial,0.0,-8.730742833983294,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00038,Tissue-specific: Stomach,0.0,-3.8033306833249143,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00063,Cell-specific: H1-hesc,0.0,-3.4488207736094694,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00093,Cell-specific: Vaginal Epithelial,0.0,-3.6728184242572977,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00001,Tissue-specific: liver,0.0,-46.66072714926054,0.0,0.0,0.0,0.0,-2.285393673859377,0.0
+PGB:00128,Cell-specific: COLO205,-3.0046256640453652,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00073,Cell-specific: OVR278E,-3.949348658052763,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-7.57570539695574,0.0,0.0,0.0
+PGB:00110,Cell-specific: Lymphoma burkitts Raji,0.0,0.0,0.0,0.0,-5.334227855735228,0.0,0.0,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,0.0,-6.952176373899015,-3.3634674164145535,0.0,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-7.260030222295398,0.0,-2.639678947219797,-3.338781127218588
+PGB:00065,Cell-specific: DRG,0.0,0.0,-5.17334227541993,-2.7000473414592943,0.0,0.0,0.0,0.0
+PGB:00071,Cell-specific: HUVEC,0.0,0.0,-2.5725328333219366,-4.011127024771865,0.0,0.0,0.0,0.0
+PGB:00080,Cell-specific: Adipocyte,-3.6760527981645,0.0,-5.031248418473838,0.0,0.0,0.0,-3.3883380171270234,-2.3179823626800293

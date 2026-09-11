@@ -1,0 +1,16 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00035,Tissue-specific: ovary,0.0,0.0,0.0,0.0,-2.393459086081899,0.0,0.0,0.0
+PGB:00029,Tissue-specific: placenta,0.0,0.0,0.0,0.0,-2.4382661642377554,0.0,0.0,0.0
+PGB:00071,Cell-specific: HUVEC,0.0,0.0,0.0,0.0,-2.455173167764255,0.0,0.0,0.0
+PGB:00028,Tissue-specific: skeletal muscle,0.0,0.0,0.0,0.0,-2.8974257333460662,0.0,0.0,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-7.522091167137838,0.0,0.0,0.0
+PGB:00069,Cell-specific: CD71+ EarlyErythroid,0.0,0.0,0.0,0.0,-2.1590745643642393,-2.03417209492557,0.0,0.0
+PGB:00104,Cell-specific: CD33+ Myeloid,0.0,0.0,-2.055711136582549,0.0,0.0,0.0,0.0,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,-2.34463685200815,0.0,0.0,0.0,0.0
+PGB:00051,Tissue-specific: Corpus,0.0,0.0,0.0,-2.6709563100895486,0.0,0.0,0.0,0.0
+PGB:00094,Cell-specific: Bronchial Epithelial Cells,0.0,0.0,0.0,-4.145233553412191,0.0,-2.147133696309438,0.0,0.0
+PGB:00128,Cell-specific: COLO205,-2.8992734697637306,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,-3.2938771794114134,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00001,Tissue-specific: liver,-2.381312406345261,-3.2115190274867826,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00081,Cell-specific: Brain cell,-2.50443906507497,0.0,0.0,0.0,-5.910053146457891,0.0,0.0,-2.6486869111584155
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-9.076287095016768,0.0,0.0,-4.637541034474648
