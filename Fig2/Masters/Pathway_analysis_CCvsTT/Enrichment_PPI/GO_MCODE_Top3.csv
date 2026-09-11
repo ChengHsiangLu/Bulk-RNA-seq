@@ -1,0 +1,55 @@
+Network,Annotation
+down_common_genes,WP107|Translation factors|-10.8;GO:1902532|negative regulation of intracellular signal transduction|-10.1;R-HSA-556833|Metabolism of lipids|-9.9
+down_common_genes_MCODE_ALL,WP107|Translation factors|-15.2;R-HSA-72649|Translation initiation complex formation|-10.5;R-HSA-72702|Ribosomal scanning and start codon recognition|-10.5
+down_common_genes_SUB1_MCODE_1,"R-HSA-72649|Translation initiation complex formation|-14.6;R-HSA-72702|Ribosomal scanning and start codon recognition|-14.6;R-HSA-72662|Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S|-14.6"
+down_common_genes_SUB1_MCODE_2,hsa01521|EGFR tyrosine kinase inhibitor resistance|-11.7;WP4806|EGFR tyrosine kinase inhibitor resistance|-11.5;hsa05230|Central carbon metabolism in cancer|-9.6
+down_common_genes_SUB1_MCODE_3,R-HSA-6798695|Neutrophil degranulation|-5.7;GO:0006412|translation|-4.1;GO:0043043|peptide biosynthetic process|-4.0
+down_common_genes_SUB1_MCODE_4,GO:0072329|monocarboxylic acid catabolic process|-6.7;GO:0016054|organic acid catabolic process|-5.8;GO:0046395|carboxylic acid catabolic process|-5.8
+down_common_genes_SUB1_MCODE_5,GO:0019216|regulation of lipid metabolic process|-5.3;GO:0034248|regulation of amide metabolic process|-4.7
+down_common_genes_SUB1_MCODE_7,GO:0051336|regulation of hydrolase activity|-4.8
+down_common_genes_SUB1_MCODE_8,GO:0006354|DNA-templated transcription elongation|-8.4;GO:0006351|DNA-templated transcription|-5.3;GO:0032774|RNA biosynthetic process|-5.2
+down_common_genes_SUB1_MCODE_9,R-HSA-432722|Golgi Associated Vesicle Biogenesis|-8.2;R-HSA-199992|trans-Golgi Network Vesicle Budding|-7.9;R-HSA-199991|Membrane Trafficking|-5.0
+down_epi_only,GO:1901615|organic hydroxy compound metabolic process|-17.0;GO:0006066|alcohol metabolic process|-14.7;GO:0010817|regulation of hormone levels|-12.1
+down_epi_only_MCODE_ALL,GO:0097006|regulation of plasma lipoprotein particle levels|-12.1;GO:0034368|protein-lipid complex remodeling|-11.8;GO:0034369|plasma lipoprotein particle remodeling|-11.8
+down_epi_only_SUB1_MCODE_1,R-HSA-913709|O-linked glycosylation of mucins|-10.6;R-HSA-5173105|O-linked glycosylation|-9.3;R-HSA-5083625|Defective GALNT3 causes HFTC|-7.4
+down_epi_only_SUB1_MCODE_2,hsa04979|Cholesterol metabolism|-15.9;GO:0097006|regulation of plasma lipoprotein particle levels|-15.5;WP5304|Cholesterol metabolism|-15.0
+down_epi_only_SUB1_MCODE_3,WP692|Sulfation biotransformation reaction|-9.2;WP702|Metapathway biotransformation Phase I and II|-8.9;GO:0051923|sulfation|-8.9
+down_epi_only_SUB1_MCODE_4,R-HSA-375276|Peptide ligand-binding receptors|-8.7;R-HSA-416476|G alpha (q) signalling events|-8.6;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-7.8
+down_epi_only_SUB1_MCODE_5,R-HSA-432722|Golgi Associated Vesicle Biogenesis|-7.6;R-HSA-199992|trans-Golgi Network Vesicle Budding|-7.3;R-HSA-199991|Membrane Trafficking|-4.4
+down_epi_only_SUB1_MCODE_6,R-HSA-9662361|Sensory processing of sound by outer hair cells of the cochlea|-8.3;R-HSA-9662360|Sensory processing of sound by inner hair cells of the cochlea|-7.9;R-HSA-9659379|Sensory processing of sound|-7.8
+down_mes_only,GO:0007167|enzyme-linked receptor protein signaling pathway|-7.4;GO:0007169|transmembrane receptor protein tyrosine kinase signaling pathway|-7.2;GO:0006897|endocytosis|-6.8
+down_mes_only_MCODE_ALL,R-HSA-8856828|Clathrin-mediated endocytosis|-9.1;R-HSA-8856825|Cargo recognition for clathrin-mediated endocytosis|-7.9;GO:0006897|endocytosis|-7.2
+down_mes_only_SUB1_MCODE_1,GO:1902455|negative regulation of stem cell population maintenance|-7.3;GO:0007169|transmembrane receptor protein tyrosine kinase signaling pathway|-7.2;WP5087|Pleural mesothelioma|-7.1
+down_mes_only_SUB1_MCODE_2,R-HSA-8856828|Clathrin-mediated endocytosis|-13.9;R-HSA-8856825|Cargo recognition for clathrin-mediated endocytosis|-11.5;GO:0006897|endocytosis|-10.6
+down_mes_only_SUB1_MCODE_3,R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-10.3;R-HSA-9843745|Adipogenesis|-9.8;R-HSA-1989781|PPARA activates gene expression|-6.6
+down_mes_only_SUB2_MCODE_4,GO:0009259|ribonucleotide metabolic process|-5.6;GO:0019693|ribose phosphate metabolic process|-5.6;GO:0009117|nucleotide metabolic process|-5.3
+down_mes_up_epi,GO:0032989|cellular anatomical entity morphogenesis|-9.6;GO:0048667|cell morphogenesis involved in neuron differentiation|-8.6;GO:0048812|neuron projection morphogenesis|-8.1
+down_mes_up_epi_MCODE_ALL,R-HSA-1280218|Adaptive Immune System|-6.7;hsa05235|PD-L1 expression and PD-1 checkpoint pathway in cancer|-6.1;hsa05022|Pathways of neurodegeneration - multiple diseases|-5.7
+down_mes_up_epi_SUB1_MCODE_1,R-HSA-1280218|Adaptive Immune System|-6.7;hsa05235|PD-L1 expression and PD-1 checkpoint pathway in cancer|-6.1;hsa05022|Pathways of neurodegeneration - multiple diseases|-5.7
+up_common_genes,R-HSA-1280215|Cytokine Signaling in Immune system|-45.8;M5890|HALLMARK TNFA SIGNALING VIA NFKB|-35.1;hsa05169|Epstein-Barr virus infection|-34.9
+up_common_genes_MCODE_ALL,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-49.0;R-HSA-1236975|Antigen processing-Cross presentation|-46.2;hsa03050|Proteasome|-45.7
+up_common_genes_SUB1_MCODE_1,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-56.9;R-HSA-5676590|NIK-->noncanonical NF-kB signaling|-51.6;hsa03050|Proteasome|-51.4
+up_common_genes_SUB1_MCODE_2,R-HSA-418594|G alpha (i) signalling events|-10.0;R-HSA-500792|GPCR ligand binding|-9.0;hsa04062|Chemokine signaling pathway|-8.9
+up_common_genes_SUB1_MCODE_3,GO:0043122|regulation of canonical NF-kappaB signal transduction|-10.1;WP231|TNF alpha signaling pathway|-9.5;M10082|BIOCARTA TNFR2 PATHWAY|-8.8
+up_common_genes_SUB1_MCODE_4,R-HSA-3000157|Laminin interactions|-15.2;R-HSA-3000171|Non-integrin membrane-ECM interactions|-13.6;R-HSA-2214320|Anchoring fibril formation|-12.7
+up_common_genes_SUB1_MCODE_5,"GO:0019885|antigen processing and presentation of endogenous peptide antigen via MHC class I|-12.6;GO:0002483|antigen processing and presentation of endogenous peptide antigen|-12.4;R-HSA-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-12.2"
+up_epi_only,R-HSA-1280218|Adaptive Immune System|-16.2;hsa04814|Motor proteins|-14.8;R-HSA-8856688|Golgi-to-ER retrograde transport|-13.0
+up_epi_only_MCODE_ALL,hsa04814|Motor proteins|-22.6;R-HSA-8856688|Golgi-to-ER retrograde transport|-20.4;R-HSA-1280218|Adaptive Immune System|-18.9
+up_epi_only_SUB1_MCODE_1,R-HSA-418594|G alpha (i) signalling events|-9.0;R-HSA-1280218|Adaptive Immune System|-8.3;GO:0070936|protein K48-linked ubiquitination|-7.7
+up_epi_only_SUB1_MCODE_2,R-HSA-983189|Kinesins|-15.5;hsa04814|Motor proteins|-15.4;R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-14.1
+up_epi_only_SUB1_MCODE_3,R-HSA-389977|Post-chaperonin tubulin folding pathway|-7.9;R-HSA-391251|Protein folding|-6.0;GO:0000226|microtubule cytoskeleton organization|-5.4
+up_epi_only_SUB1_MCODE_4,R-HSA-6811436|COPI-independent Golgi-to-ER retrograde traffic|-10.4;R-HSA-3371497|HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand|-10.3;R-HSA-6807878|COPI-mediated anterograde transport|-9.2
+up_mes_down_epi,M5924|HALLMARK MTORC1 SIGNALING|-37.7;R-HSA-191273|Cholesterol biosynthesis|-27.5;GO:0016126|sterol biosynthetic process|-27.0
+up_mes_down_epi_MCODE_ALL,R-HSA-191273|Cholesterol biosynthesis|-18.0;WP4718|Cholesterol metabolism with Bloch and Kandutsch Russell pathways|-17.8;M5924|HALLMARK MTORC1 SIGNALING|-16.0
+up_mes_down_epi_SUB1_MCODE_1,WP3963|Mevalonate pathway|-10.8;WP4190|Mevalonate arm of cholesterol biosynthesis pathway|-9.5;WP197|Cholesterol biosynthesis pathway|-9.2
+up_mes_down_epi_SUB1_MCODE_2,R-HSA-191273|Cholesterol biosynthesis|-10.2;GO:0016125|sterol metabolic process|-9.7;GO:0016126|sterol biosynthetic process|-9.3
+up_mes_down_epi_SUB1_MCODE_3,hsa00010|Glycolysis / Gluconeogenesis|-6.4;GO:0005975|carbohydrate metabolic process|-5.8;GO:0090407|organophosphate biosynthetic process|-5.5
+up_mes_down_epi_SUB1_MCODE_4,WP4786|Type I collagen synthesis in the context of osteogenesis imperfecta|-7.6;hsa00310|Lysine degradation|-6.8;R-HSA-1650814|Collagen biosynthesis and modifying enzymes|-6.7
+up_mes_down_epi_SUB1_MCODE_5,hsa04141|Protein processing in endoplasmic reticulum|-7.8;GO:0006457|protein folding|-7.4;GO:0034976|response to endoplasmic reticulum stress|-7.3
+up_mes_down_epi_SUB1_MCODE_6,R-HSA-446203|Asparagine N-linked glycosylation|-5.0
+up_mes_only,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-15.5;R-HSA-1280215|Cytokine Signaling in Immune system|-13.5;R-HSA-913531|Interferon Signaling|-13.3
+up_mes_only_MCODE_ALL,R-HSA-9705683|SARS-CoV-2-host interactions|-14.0;R-HSA-9705671|SARS-CoV-2 activates/modulates innate and adaptive immune responses|-13.7;R-HSA-913531|Interferon Signaling|-12.9
+up_mes_only_SUB1_MCODE_1,R-HSA-499943|Interconversion of nucleotide di- and triphosphates|-10.3;R-HSA-15869|Metabolism of nucleotides|-8.1;GO:0006221|pyrimidine nucleotide biosynthetic process|-7.2
+up_mes_only_SUB1_MCODE_2,R-HSA-170822|Regulation of Glucokinase by Glucokinase Regulatory Protein|-12.0;R-HSA-168271|Transport of Ribonucleoproteins into the Host Nucleus|-12.0;R-HSA-5619107|Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)|-12.0
+up_mes_only_SUB1_MCODE_3,R-HSA-72163|mRNA Splicing - Major Pathway|-8.7;R-HSA-72172|mRNA Splicing|-8.6;R-HSA-72203|Processing of Capped Intron-Containing Pre-mRNA|-8.1
+up_mes_only_SUB1_MCODE_5,R-HSA-877300|Interferon gamma signaling|-7.5;R-HSA-9705671|SARS-CoV-2 activates/modulates innate and adaptive immune responses|-7.2;hsa05169|Epstein-Barr virus infection|-6.5

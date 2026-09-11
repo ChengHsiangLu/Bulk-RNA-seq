@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00139,Cell-specific: Renal Epithelial,0.0,-11.202081976413053,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00060,Cell-specific: liver cell,0.0,-15.397367418769571,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00005,Tissue-specific: colon,0.0,-11.747579344530946,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,0.0,-33.34922838529573,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00006,Tissue-specific: small intestine,0.0,-7.487164661078462,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00002,Tissue-specific: kidney,0.0,-9.270012968468231,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00105,Cell-specific: huh-7,0.0,-3.889189197792543,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00120,Cell-specific: IGROV1,0.0,-4.436076496109466,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00065,Cell-specific: DRG,0.0,-4.5969749127435335,-2.0086283714872764,-3.056484341738448,0.0,0.0,0.0,0.0
+PGB:00001,Tissue-specific: liver,0.0,-40.02163424697763,0.0,0.0,0.0,0.0,-6.557401800280001,0.0
+PGB:00080,Cell-specific: Adipocyte,-2.785942090871123,-2.821015479346471,-7.966763654341938,0.0,0.0,0.0,0.0,0.0
+PGB:00098,Cell-specific: LN18,0.0,0.0,-3.9224730175715825,0.0,0.0,0.0,0.0,0.0
+PGB:00073,Cell-specific: OVR278E,-3.7958631668431715,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00026,Tissue-specific: Blood,0.0,0.0,0.0,0.0,-4.923913192106455,0.0,0.0,0.0
+PGB:00081,Cell-specific: Brain cell,0.0,0.0,0.0,0.0,-4.0760754288341285,0.0,0.0,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,0.0,-4.484223220246802,0.0,0.0,0.0
+PGB:00094,Cell-specific: Bronchial Epithelial Cells,0.0,0.0,0.0,0.0,-3.9149310883235815,-2.478264734096451,0.0,0.0
+PGB:00110,Cell-specific: Lymphoma burkitts Raji,0.0,0.0,0.0,0.0,-3.828357229504209,0.0,-2.069270652081447,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-4.348356513986702,0.0,-3.717012485962856,0.0
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-7.817605895655457,0.0,-5.409191278701234,0.0

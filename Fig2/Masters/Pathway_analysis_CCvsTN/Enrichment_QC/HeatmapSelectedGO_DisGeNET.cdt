@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	up_mes_down_epi	down_common_genes	down_mes_only	down_mes_up_epi	down_epi_only	up_mes_only	up_common_genes	up_epi_only
+AID				ARRY7X	ARRY1X	ARRY3X	ARRY4X	ARRY2X	ARRY8X	ARRY5X	ARRY6X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE6X	C0036220	Kaposi Sarcoma	1	-0.000	0.101	-0.000	-0.000	-0.000	-0.000	0.662	-0.000
+GENE19X	C0220597	Adult Hodgkin Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.863	-0.000
+GENE17X	C1333064	Classical Hodgkin's Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.712	-0.000
+GENE16X	C0149678	Epstein-Barr Virus Infections	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.681	-0.000
+GENE1X	C1332201	Adult Diffuse Large B-Cell Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.646	-0.000
+GENE7X	C0220644	Childhood Hodgkin Lymphoma	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.863	-0.000
+GENE12X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	-0.000	-0.000	-0.000	0.150	-0.000	0.105	0.778	0.173
+GENE4X	C0008312	Primary biliary cirrhosis	1	0.217	-0.000	-0.000	-0.000	-0.000	-0.000	0.626	0.294
+GENE18X	C0004623	Bacterial Infections	1	0.163	-0.000	-0.000	-0.000	-0.000	-0.000	0.632	0.456
+GENE10X	C0024143	Lupus Nephritis	1	-0.000	0.142	-0.000	-0.000	-0.000	-0.000	0.692	0.247
+GENE3X	C3714514	Infection	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	1.000	0.253
+GENE11X	C0151449	Primary Sjögren's syndrome	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	1.000	0.335
+GENE20X	C0011603	Dermatitis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.746	0.317
+GENE13X	C3495559	Juvenile arthritis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.798	0.211
+GENE2X	C0018213	Graves Disease	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.659	0.269
+GENE9X	C3714636	Pneumonitis	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	0.651	0.278
+GENE5X	C0038013	Ankylosing spondylitis	1	-0.000	-0.000	-0.000	-0.000	-0.000	0.131	0.681	0.432
+GENE14X	C0003872	Arthritis, Psoriatic	1	-0.000	-0.000	-0.000	-0.000	-0.000	0.136	0.701	0.152
+GENE8X	C0004943	Behcet Syndrome	1	-0.000	-0.000	-0.000	-0.000	0.114	0.145	0.883	0.133
+GENE15X	C0011615	Dermatitis, Atopic	1	-0.000	-0.000	-0.000	-0.000	0.130	0.121	0.730	0.313

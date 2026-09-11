@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00004,Tissue-specific: kidney,0.0,-8.146501797025639,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00008,Tissue-specific: small intestine,0.0,-8.227552966901909,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00007,Tissue-specific: colon,0.0,-6.693139811940701,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00078,Cell-specific: liver cell,0.0,-10.095711589338476,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00068,Tissue-specific: Stomach,0.0,-3.547413687378364,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00037,Tissue-specific: heart,0.0,-3.777889876437287,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00080,Cell-specific: huh-7,0.0,-5.146222573295052,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00082,Cell-specific: Breast cell,0.0,-3.2696158534727306,0.0,0.0,0.0,-3.2536253320888275,0.0,0.0
+PGB:00119,Cell-specific: Renal Epithelial,0.0,-5.7600190089143375,0.0,0.0,0.0,-3.531176669630672,0.0,0.0
+PGB:00001,Tissue-specific: liver,-3.479773616591938,-35.555862512112206,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00002,Cell-specific: HEPG2,-6.644846075528644,-22.994275274799488,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00160,Cell-specific: T3M4,0.0,0.0,0.0,0.0,0.0,-3.046075726296281,0.0,0.0
+PGB:00018,Tissue-specific: lung,0.0,0.0,0.0,0.0,0.0,-4.313464993175958,0.0,0.0
+PGB:00011,Tissue-specific: spleen,0.0,0.0,0.0,-2.2888965388669535,0.0,-3.787929570765774,0.0,0.0
+PGB:00081,Cell-specific: Bronchial Epithelial Cells,0.0,0.0,0.0,-3.581901092248508,-3.151352585592381,-8.804213776439665,0.0,0.0
+PGB:00049,Cell-specific: Adipocyte,0.0,0.0,-4.46291180309377,0.0,0.0,0.0,0.0,-2.6204161755591104
+PGB:00031,Cell-specific: HUVEC,0.0,0.0,-3.577639060114718,0.0,-5.872144271141908,0.0,0.0,0.0
+PGB:00015,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-10.552900196322089,0.0,0.0,-6.2802669178220025
+PGB:00120,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-11.945404855597765,0.0,0.0,-3.6223686305982623
+PGB:00067,Cell-specific: Brain cell,0.0,0.0,0.0,-2.0374637934876367,-4.872418354737852,0.0,0.0,-6.6956429771835655
