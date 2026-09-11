@@ -1,0 +1,56 @@
+Network,Annotation
+down_common_genes,GO:0007167|enzyme-linked receptor protein signaling pathway|-13.6;GO:0007169|transmembrane receptor protein tyrosine kinase signaling pathway|-12.0;GO:0009725|response to hormone|-11.1
+down_common_genes_MCODE_ALL,hsa00562|Inositol phosphate metabolism|-9.3;GO:0016054|organic acid catabolic process|-9.3;GO:0046395|carboxylic acid catabolic process|-9.3
+down_common_genes_SUB1_MCODE_1,GO:0044282|small molecule catabolic process|-15.7;GO:0046395|carboxylic acid catabolic process|-14.8;GO:0016054|organic acid catabolic process|-14.8
+down_common_genes_SUB1_MCODE_2,hsa00562|Inositol phosphate metabolism|-13.1;hsa04070|Phosphatidylinositol signaling system|-12.4;R-HSA-1483249|Inositol phosphate metabolism|-11.3
+down_common_genes_SUB1_MCODE_3,R-HSA-2428928|IRS-related events triggered by IGF1R|-6.1;R-HSA-2428924|IGF1R signaling cascade|-6.1;R-HSA-2404192|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)|-6.1
+down_common_genes_SUB1_MCODE_4,R-HSA-9013409|RHOJ GTPase cycle|-8.2;R-HSA-9012999|RHO GTPase cycle|-5.5;R-HSA-194315|Signaling by Rho GTPases|-4.9
+down_common_genes_SUB1_MCODE_5,hsa04919|Thyroid hormone signaling pathway|-7.2;GO:0006366|transcription by RNA polymerase II|-5.7;GO:0032870|cellular response to hormone stimulus|-5.3
+down_epi_only,WP5390|Pancreatic cancer subtypes|-12.7;GO:0010817|regulation of hormone levels|-10.1;GO:1901615|organic hydroxy compound metabolic process|-10.1
+down_epi_only_MCODE_ALL,R-HSA-381426|Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)|-13.1;R-HSA-8957275|Post-translational protein phosphorylation|-11.8;GO:0034381|plasma lipoprotein particle clearance|-9.8
+down_epi_only_SUB1_MCODE_1,GO:0034381|plasma lipoprotein particle clearance|-12.4;R-HSA-416476|G alpha (q) signalling events|-11.6;hsa04979|Cholesterol metabolism|-10.7
+down_epi_only_SUB1_MCODE_2,R-HSA-9662361|Sensory processing of sound by outer hair cells of the cochlea|-8.9;R-HSA-9662360|Sensory processing of sound by inner hair cells of the cochlea|-8.5;R-HSA-9659379|Sensory processing of sound|-8.3
+down_epi_only_SUB1_MCODE_3,R-HSA-8957275|Post-translational protein phosphorylation|-12.3;R-HSA-381426|Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)|-12.0;WP558|Complement and coagulation cascades|-10.2
+down_epi_only_SUB1_MCODE_4,R-HSA-913709|O-linked glycosylation of mucins|-10.7;R-HSA-5173105|O-linked glycosylation|-9.8
+down_epi_only_SUB1_MCODE_5,WP334|GPCRs class B secretin like|-9.4;R-HSA-420092|Glucagon-type ligand receptors|-8.9;R-HSA-373080|Class B/2 (Secretin family receptors)|-7.5
+down_epi_only_SUB1_MCODE_6,GO:1904970|brush border assembly|-10.9;WP5380|5q35 copy number variation|-7.3
+down_epi_only_SUB1_MCODE_7,R-HSA-936837|Ion transport by P-type ATPases|-8.2;hsa04978|Mineral absorption|-8.1;R-HSA-983712|Ion channel transport|-6.6
+down_mes_only,R-HSA-1852241|Organelle biogenesis and maintenance|-10.7;GO:0006325|chromatin organization|-8.2;M5925|HALLMARK E2F TARGETS|-7.0
+down_mes_only_MCODE_ALL,R-HSA-1852241|Organelle biogenesis and maintenance|-9.2;R-HSA-68877|Mitotic Prometaphase|-7.6;R-HSA-3700989|Transcriptional Regulation by TP53|-7.2
+down_mes_only_SUB1_MCODE_1,GO:0048013|ephrin receptor signaling pathway|-5.6;GO:0007169|transmembrane receptor protein tyrosine kinase signaling pathway|-5.6;hsa04360|Axon guidance|-5.5
+down_mes_only_SUB1_MCODE_2,M101|PID HDAC CLASSI PATHWAY|-7.8;R-HSA-8951664|Neddylation|-7.4;M219|PID HEDGEHOG GLI PATHWAY|-6.0
+down_mes_only_SUB1_MCODE_3,WP51|Regulation of actin cytoskeleton|-9.2;hsa04810|Regulation of actin cytoskeleton|-8.5;R-HSA-1660499|Synthesis of PIPs at the plasma membrane|-7.7
+down_mes_only_SUB1_MCODE_4,R-HSA-5617472|Activation of anterior HOX genes in hindbrain development during early embryogenesis|-7.2;R-HSA-5619507|Activation of HOX genes during differentiation|-7.2
+down_mes_only_SUB1_MCODE_5,R-HSA-380284|Loss of proteins required for interphase microtubule organization from the centrosome|-7.9;R-HSA-380259|Loss of Nlp from mitotic centrosomes|-7.9;R-HSA-8854518|AURKA Activation by TPX2|-7.9
+down_mes_only_SUB1_MCODE_7,GO:0006325|chromatin organization|-4.7
+down_mes_up_epi,GO:0000165|MAPK cascade|-6.1;GO:0001933|negative regulation of protein phosphorylation|-6.0;GO:2001233|regulation of apoptotic signaling pathway|-5.8
+down_mes_up_epi_MCODE_ALL,WP185|Integrin mediated cell adhesion|-7.1;WP3932|Focal adhesion PI3K Akt mTOR signaling pathway|-6.9;WP306|Focal adhesion|-5.9
+down_mes_up_epi_SUB1_MCODE_1,R-HSA-422356|Regulation of insulin secretion|-6.0;hsa05032|Morphine addiction|-5.8;R-HSA-373080|Class B/2 (Secretin family receptors)|-5.8
+down_mes_up_epi_SUB1_MCODE_2,WP185|Integrin mediated cell adhesion|-9.2;WP306|Focal adhesion|-8.0;hsa04510|Focal adhesion|-8.0
+up_common_genes,R-HSA-1280215|Cytokine Signaling in Immune system|-35.1;M5890|HALLMARK TNFA SIGNALING VIA NFKB|-28.2;hsa05169|Epstein-Barr virus infection|-26.6
+up_common_genes_MCODE_ALL,R-HSA-1280215|Cytokine Signaling in Immune system|-30.2;R-HSA-1236974|ER-Phagosome pathway|-28.1;R-HSA-1236975|Antigen processing-Cross presentation|-26.9
+up_common_genes_SUB1_MCODE_1,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-33.4;R-HSA-9020702|Interleukin-1 signaling|-29.7;R-HSA-5688426|Deubiquitination|-28.6
+up_common_genes_SUB1_MCODE_2,R-HSA-418594|G alpha (i) signalling events|-15.9;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-15.7;R-HSA-380108|Chemokine receptors bind chemokines|-14.9
+up_common_genes_SUB1_MCODE_3,"GO:0019885|antigen processing and presentation of endogenous peptide antigen via MHC class I|-19.0;GO:0002483|antigen processing and presentation of endogenous peptide antigen|-18.8;R-HSA-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-18.4"
+up_common_genes_SUB1_MCODE_4,WP51|Regulation of actin cytoskeleton|-10.8;WP524|G13 signaling pathway|-10.5;R-HSA-422475|Axon guidance|-10.5
+up_common_genes_SUB1_MCODE_5,GO:0002221|pattern recognition receptor signaling pathway|-6.2;GO:0002758|innate immune response-activating signaling pathway|-6.0;GO:0002218|activation of innate immune response|-5.8
+up_common_genes_SUB1_MCODE_6,R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-10.0;R-HSA-8856688|Golgi-to-ER retrograde transport|-9.4;R-HSA-6811442|Intra-Golgi and retrograde Golgi-to-ER traffic|-8.7
+up_common_genes_SUB1_MCODE_7,M36|PID IL27 PATHWAY|-9.3;hsa04659|Th17 cell differentiation|-7.4;GO:0019221|cytokine-mediated signaling pathway|-5.7
+up_epi_only,R-HSA-1280215|Cytokine Signaling in Immune system|-17.7;R-HSA-913531|Interferon Signaling|-10.6;GO:0045087|innate immune response|-9.7
+up_epi_only_MCODE_ALL,GO:0072678|T cell migration|-9.2;R-HSA-418594|G alpha (i) signalling events|-9.0;R-HSA-388396|GPCR downstream signalling|-8.9
+up_epi_only_SUB1_MCODE_1,GO:0072678|T cell migration|-11.2;R-HSA-375276|Peptide ligand-binding receptors|-10.9;GO:0048247|lymphocyte chemotaxis|-10.5
+up_epi_only_SUB1_MCODE_2,WP2272|Pathogenic Escherichia coli infection|-7.6;WP2359|Parkin ubiquitin proteasomal system pathway|-7.3;hsa04540|Gap junction|-7.0
+up_mes_down_epi,M5924|HALLMARK MTORC1 SIGNALING|-15.4;R-HSA-556833|Metabolism of lipids|-14.7;GO:0008610|lipid biosynthetic process|-12.3
+up_mes_down_epi_MCODE_ALL,hsa04141|Protein processing in endoplasmic reticulum|-11.5;GO:0051604|protein maturation|-9.3;WP4718|Cholesterol metabolism with Bloch and Kandutsch Russell pathways|-9.1
+up_mes_down_epi_SUB1_MCODE_1,GO:0051604|protein maturation|-5.1;hsa04141|Protein processing in endoplasmic reticulum|-4.8;GO:0006457|protein folding|-4.5
+up_mes_down_epi_SUB1_MCODE_2,GO:0120254|olefinic compound metabolic process|-5.4;GO:0006066|alcohol metabolic process|-4.4;GO:1901615|organic hydroxy compound metabolic process|-3.9
+up_mes_down_epi_SUB1_MCODE_3,hsa04141|Protein processing in endoplasmic reticulum|-10.5;R-HSA-901042|Calnexin/calreticulin cycle|-8.0;R-HSA-532668|N-glycan trimming in the ER and Calnexin/Calreticulin cycle|-7.5
+up_mes_down_epi_SUB1_MCODE_4,R-HSA-432722|Golgi Associated Vesicle Biogenesis|-11.0;R-HSA-199992|trans-Golgi Network Vesicle Budding|-10.5;R-HSA-199991|Membrane Trafficking|-6.7
+up_mes_down_epi_SUB1_MCODE_5,GO:1902653|secondary alcohol biosynthetic process|-8.8;GO:0006695|cholesterol biosynthetic process|-8.8;GO:0016126|sterol biosynthetic process|-8.5
+up_mes_only,R-HSA-446203|Asparagine N-linked glycosylation|-14.5;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-11.4;R-HSA-5653656|Vesicle-mediated transport|-11.1
+up_mes_only_MCODE_ALL,R-HSA-199977|ER to Golgi Anterograde Transport|-17.7;R-HSA-446203|Asparagine N-linked glycosylation|-17.5;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-16.8
+up_mes_only_SUB1_MCODE_1,R-HSA-446353|Cell-extracellular matrix interactions|-7.0;R-HSA-1799339|SRP-dependent cotranslational protein targeting to membrane|-6.5;GO:0006613|cotranslational protein targeting to membrane|-6.2
+up_mes_only_SUB1_MCODE_2,R-HSA-199977|ER to Golgi Anterograde Transport|-27.7;R-HSA-948021|Transport to the Golgi and subsequent modification|-26.7;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-25.3
+up_mes_only_SUB1_MCODE_3,GO:0030490|maturation of SSU-rRNA|-12.5;R-HSA-6790901|rRNA modification in the nucleus and cytosol|-12.2;GO:0042274|ribosomal small subunit biogenesis|-11.1
+up_mes_only_SUB1_MCODE_4,GO:0031329|regulation of cellular catabolic process|-4.2
+up_mes_only_SUB1_MCODE_5,GO:0039702|viral budding via host ESCRT complex|-9.5;GO:0046755|viral budding|-9.3;GO:0032511|late endosome to vacuole transport via multivesicular body sorting pathway|-9.2

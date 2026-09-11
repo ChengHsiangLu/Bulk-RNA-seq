@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	up_common_genes	up_epi_only	up_mes_only	down_mes_only	down_mes_up_epi	down_common_genes	down_epi_only	up_mes_down_epi
+AID				ARRY5X	ARRY6X	ARRY8X	ARRY3X	ARRY4X	ARRY1X	ARRY2X	ARRY7X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE12X	GO:0045785	GO:0045785: positive regulation of cell adhesion	1	0.511	0.213	-0.000	-0.000	0.125	0.143	-0.000	-0.000
+GENE14X	R-HSA-1280215	R-HSA-1280215: Cytokine Signaling in Immune system	1	1.000	0.657	-0.000	-0.000	0.124	-0.000	-0.000	-0.000
+GENE17X	M5890	M5890: HALLMARK TNFA SIGNALING VIA NFKB	1	1.000	0.201	0.122	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE11X	M5913	M5913: HALLMARK INTERFERON GAMMA RESPONSE	1	1.000	0.119	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE16X	hsa05169	hsa05169: Epstein-Barr virus infection	1	1.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE18X	R-HSA-1236975	R-HSA-1236975: Antigen processing-Cross presentation	1	1.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE15X	R-HSA-5653656	R-HSA-5653656: Vesicle-mediated transport	1	0.118	-0.000	0.393	-0.000	0.178	-0.000	0.166	0.322
+GENE8X	GO:0007167	GO:0007167: enzyme-linked receptor protein signaling pathway	1	-0.000	-0.000	0.171	0.120	0.117	0.523	-0.000	-0.000
+GENE1X	GO:0008285	GO:0008285: negative regulation of cell population proliferation	1	0.400	-0.000	0.134	0.127	0.122	0.189	-0.000	-0.000
+GENE10X	GO:0035239	GO:0035239: tube morphogenesis	1	0.220	-0.000	0.217	0.209	0.298	0.140	-0.000	0.151
+GENE2X	WP5390	WP5390: Pancreatic cancer subtypes	1	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	1.000	-0.000
+GENE7X	R-HSA-6798695	R-HSA-6798695: Neutrophil degranulation	1	0.312	0.215	0.151	-0.000	-0.000	0.349	0.283	0.261
+GENE19X	R-HSA-109582	R-HSA-109582: Hemostasis	1	0.184	0.138	0.124	-0.000	-0.000	0.209	0.326	-0.000
+GENE6X	GO:0019752	GO:0019752: carboxylic acid metabolic process	1	-0.000	0.102	0.199	-0.000	-0.000	0.372	0.356	0.328
+GENE3X	R-HSA-556833	R-HSA-556833: Metabolism of lipids	1	-0.000	0.158	-0.000	-0.000	0.154	0.332	0.343	0.588
+GENE5X	GO:1901615	GO:1901615: organic hydroxy compound metabolic process	1	-0.000	0.214	-0.000	-0.000	-0.000	0.283	0.495	0.228
+GENE9X	GO:0003013	GO:0003013: circulatory system process	1	-0.000	0.171	-0.000	0.165	-0.000	0.210	0.180	0.133
+GENE13X	GO:0098657	GO:0098657: import into cell	1	-0.000	0.200	-0.000	0.105	0.142	0.247	0.226	0.100
+GENE4X	GO:0120035	GO:0120035: regulation of plasma membrane bounded cell projection organization	1	0.145	-0.000	-0.000	0.178	0.106	0.299	0.171	0.183
+GENE20X	GO:0009725	GO:0009725: response to hormone	1	-0.000	-0.000	-0.000	0.164	0.102	0.434	0.112	0.361

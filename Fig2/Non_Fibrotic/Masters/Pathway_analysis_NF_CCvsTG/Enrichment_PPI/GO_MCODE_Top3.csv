@@ -1,0 +1,43 @@
+Network,Annotation
+down_common_genes,"M5935|HALLMARK FATTY ACID METABOLISM|-11.4;GO:0019752|carboxylic acid metabolic process|-9.8;hsa00280|Valine, leucine and isoleucine degradation|-8.9"
+down_common_genes_MCODE_ALL,"hsa04070|Phosphatidylinositol signaling system|-10.2;hsa00071|Fatty acid degradation|-9.9;hsa00280|Valine, leucine and isoleucine degradation|-9.7"
+down_common_genes_SUB1_MCODE_1,M5935|HALLMARK FATTY ACID METABOLISM|-9.7;hsa00071|Fatty acid degradation|-9.6;hsa00620|Pyruvate metabolism|-9.5
+down_common_genes_SUB1_MCODE_2,hsa04070|Phosphatidylinositol signaling system|-15.0;GO:0046488|phosphatidylinositol metabolic process|-10.7;R-HSA-1483249|Inositol phosphate metabolism|-10.0
+down_common_genes_SUB1_MCODE_3,GO:0006364|rRNA processing|-5.8;GO:0016072|rRNA metabolic process|-5.7;GO:0042254|ribosome biogenesis|-5.4
+down_common_genes_SUB1_MCODE_4,GO:0016054|organic acid catabolic process|-5.8;GO:0046395|carboxylic acid catabolic process|-5.8;GO:0006631|fatty acid metabolic process|-5.3
+down_epi_only,GO:0010817|regulation of hormone levels|-9.7;GO:0042445|hormone metabolic process|-9.3;WP5066|FOXA2 pathway|-8.6
+down_epi_only_MCODE_ALL,WP5304|Cholesterol metabolism|-6.9;GO:0010885|regulation of cholesterol storage|-6.6;WP5066|FOXA2 pathway|-6.5
+down_epi_only_SUB1_MCODE_1,WP5304|Cholesterol metabolism|-7.2;GO:0010885|regulation of cholesterol storage|-6.8;WP5066|FOXA2 pathway|-6.7
+down_mes_only,GO:0032870|cellular response to hormone stimulus|-8.7;GO:0009725|response to hormone|-8.6;R-HSA-1852241|Organelle biogenesis and maintenance|-7.5
+down_mes_only_MCODE_ALL,M22058|BIOCARTA PPARG PATHWAY|-8.7;GO:0035357|peroxisome proliferator activated receptor signaling pathway|-8.5;R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-7.7
+down_mes_only_SUB1_MCODE_1,M22058|BIOCARTA PPARG PATHWAY|-8.7;GO:0035357|peroxisome proliferator activated receptor signaling pathway|-8.5;R-HSA-381340|Transcriptional regulation of white adipocyte differentiation|-7.7
+down_mes_up_epi,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-23.2;R-HSA-1280215|Cytokine Signaling in Immune system|-22.7;R-HSA-449147|Signaling by Interleukins|-14.6
+down_mes_up_epi_MCODE_ALL,M5890|HALLMARK TNFA SIGNALING VIA NFKB|-12.4;R-HSA-1280215|Cytokine Signaling in Immune system|-12.3;WP4630|Measles virus infection|-9.6
+down_mes_up_epi_SUB1_MCODE_1,R-HSA-418594|G alpha (i) signalling events|-9.9;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-9.8;R-HSA-500792|GPCR ligand binding|-9.1
+down_mes_up_epi_SUB1_MCODE_2,R-HSA-3371497|HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand|-7.6;GO:0009408|response to heat|-7.0;GO:0009266|response to temperature stimulus|-6.2
+down_mes_up_epi_SUB1_MCODE_3,R-HSA-168928|DDX58/IFIH1-mediated induction of interferon-alpha/beta|-10.3;R-HSA-933542|TRAF6 mediated NF-kB activation|-8.7;R-HSA-5607764|CLEC7A (Dectin-1) signaling|-6.8
+down_mes_up_epi_SUB1_MCODE_4,GO:0030036|actin cytoskeleton organization|-7.0;GO:0030029|actin filament-based process|-6.8;GO:0007264|small GTPase-mediated signal transduction|-5.6
+down_mes_up_epi_SUB1_MCODE_5,M8066|BIOCARTA IL22BP PATHWAY|-10.7;R-HSA-9705462|Inactivation of CSF3 (G-CSF) signaling|-9.3;R-HSA-9674555|Signaling by CSF3 (G-CSF)|-9.1
+up_common_genes,M5930|HALLMARK EPITHELIAL MESENCHYMAL TRANSITION|-21.1;GO:0030036|actin cytoskeleton organization|-18.5;GO:0030029|actin filament-based process|-17.2
+up_common_genes_MCODE_ALL,GO:0030036|actin cytoskeleton organization|-20.2;GO:0030029|actin filament-based process|-19.4;hsa04820|Cytoskeleton in muscle cells|-15.0
+up_common_genes_SUB1_MCODE_1,GO:0030036|actin cytoskeleton organization|-23.3;GO:0030029|actin filament-based process|-22.6;R-HSA-5663220|RHO GTPases Activate Formins|-15.0
+up_common_genes_SUB1_MCODE_2,R-HSA-6807878|COPI-mediated anterograde transport|-7.4;R-HSA-8856688|Golgi-to-ER retrograde transport|-7.1;R-HSA-199977|ER to Golgi Anterograde Transport|-6.9
+up_common_genes_SUB1_MCODE_3,R-HSA-9031628|NGF-stimulated transcription|-8.7;R-HSA-198725|Nuclear Events (kinase and transcription factor activation)|-8.1;R-HSA-187037|Signaling by NTRK1 (TRKA)|-7.3
+up_common_genes_SUB1_MCODE_4,R-HSA-3000178|ECM proteoglycans|-7.8;hsa04820|Cytoskeleton in muscle cells|-6.4;M5884|NABA CORE MATRISOME|-6.1
+up_epi_only,R-HSA-1280215|Cytokine Signaling in Immune system|-13.5;GO:0006954|inflammatory response|-11.7;M5921|HALLMARK COMPLEMENT|-10.9
+up_epi_only_MCODE_ALL,R-HSA-375276|Peptide ligand-binding receptors|-11.8;R-HSA-418594|G alpha (i) signalling events|-10.4;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-10.2
+up_epi_only_SUB1_MCODE_1,R-HSA-375276|Peptide ligand-binding receptors|-15.3;R-HSA-418594|G alpha (i) signalling events|-13.9;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-13.7
+up_epi_only_SUB1_MCODE_2,GO:0007266|Rho protein signal transduction|-7.4;GO:0007264|small GTPase-mediated signal transduction|-5.6;GO:0007015|actin filament organization|-5.5
+up_epi_only_SUB1_MCODE_3,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-7.4;R-HSA-1280215|Cytokine Signaling in Immune system|-4.8
+up_mes_down_epi,hsa04141|Protein processing in endoplasmic reticulum|-12.7;GO:0090150|establishment of protein localization to membrane|-11.0;GO:0006457|protein folding|-10.0
+up_mes_down_epi_MCODE_ALL,GO:0090150|establishment of protein localization to membrane|-8.8;GO:0006613|cotranslational protein targeting to membrane|-8.7;GO:0072657|protein localization to membrane|-7.0
+up_mes_down_epi_SUB1_MCODE_1,GO:0034660|ncRNA metabolic process|-3.2;R-HSA-8953854|Metabolism of RNA|-2.8
+up_mes_down_epi_SUB1_MCODE_2,GO:0090150|establishment of protein localization to membrane|-7.3;GO:0072657|protein localization to membrane|-6.1;GO:0051668|localization within membrane|-5.8
+up_mes_only,R-HSA-446203|Asparagine N-linked glycosylation|-17.5;R-HSA-5653656|Vesicle-mediated transport|-14.3;GO:0048193|Golgi vesicle transport|-12.9
+up_mes_only_MCODE_ALL,R-HSA-5653656|Vesicle-mediated transport|-17.3;R-HSA-6807878|COPI-mediated anterograde transport|-16.9;R-HSA-199991|Membrane Trafficking|-16.1
+up_mes_only_SUB1_MCODE_1,GO:0006366|transcription by RNA polymerase II|-4.9;GO:0006351|DNA-templated transcription|-4.4;GO:0032774|RNA biosynthetic process|-4.3
+up_mes_only_SUB1_MCODE_2,"R-HSA-6811438|Intra-Golgi traffic|-14.3;GO:0000301|retrograde transport, vesicle recycling within Golgi|-13.7;GO:0006891|intra-Golgi vesicle-mediated transport|-11.2"
+up_mes_only_SUB1_MCODE_3,hsa04141|Protein processing in endoplasmic reticulum|-8.3
+up_mes_only_SUB2_MCODE_4,M3005|NABA COLLAGENS|-14.3;R-HSA-8948216|Collagen chain trimerization|-14.3;M198|PID SYNDECAN 1 PATHWAY|-14.2
+up_mes_only_SUB1_MCODE_5,R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-10.0;R-HSA-6807878|COPI-mediated anterograde transport|-9.9;R-HSA-8856688|Golgi-to-ER retrograde transport|-9.4
+up_mes_only_SUB1_MCODE_6,R-HSA-6807878|COPI-mediated anterograde transport|-7.4;R-HSA-199977|ER to Golgi Anterograde Transport|-6.9;R-HSA-948021|Transport to the Golgi and subsequent modification|-6.6

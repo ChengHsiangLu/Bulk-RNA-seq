@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00065,Cell-specific: DRG,0.0,-2.6158493260602556,-2.1164910407674733,-3.2058263724589096,0.0,-2.946562026278175,0.0,0.0
+PGB:00153,Cell-specific: Liposarcoma cell,0.0,0.0,0.0,-4.890727363808859,0.0,0.0,0.0,0.0
+PGB:00039,Tissue-specific: uterus,0.0,0.0,0.0,0.0,0.0,-3.2705169479551617,0.0,0.0
+PGB:00139,Cell-specific: Renal Epithelial,0.0,-10.708137523046394,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00060,Cell-specific: liver cell,0.0,-15.930026042031418,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00005,Tissue-specific: colon,0.0,-14.149031251803185,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,0.0,-30.089348217365558,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00006,Tissue-specific: small intestine,0.0,-6.986828767161848,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00002,Tissue-specific: kidney,0.0,-7.68005525167858,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00063,Cell-specific: H1-hesc,0.0,-4.121514191562546,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00093,Cell-specific: Vaginal Epithelial,0.0,-3.3708453995635286,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00105,Cell-specific: huh-7,0.0,-3.7129308788701403,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00001,Tissue-specific: liver,0.0,-42.064302902575385,0.0,0.0,0.0,0.0,-4.674112394875245,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,0.0,-3.8245531804745876,0.0,0.0,0.0
+PGB:00026,Tissue-specific: Blood,0.0,0.0,0.0,0.0,-3.5476145738019884,0.0,0.0,0.0
+PGB:00029,Tissue-specific: placenta,0.0,0.0,0.0,-2.1041451735183836,-3.4012114096497497,0.0,0.0,0.0
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,0.0,-4.443617757064842,0.0,-3.651485607581843,0.0
+PGB:00081,Cell-specific: Brain cell,0.0,0.0,0.0,0.0,-4.558426460931274,0.0,-3.6221763819053194,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-4.8357267446277055,0.0,-2.806625978032906,0.0
+PGB:00080,Cell-specific: Adipocyte,-2.200732915676243,0.0,-9.470260906705336,0.0,0.0,0.0,0.0,0.0

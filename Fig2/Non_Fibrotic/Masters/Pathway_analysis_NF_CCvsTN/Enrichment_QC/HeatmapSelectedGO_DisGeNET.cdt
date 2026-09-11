@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	up_common_genes	up_epi_only	down_common_genes	down_epi_only	up_mes_down_epi	up_mes_only	down_mes_only	down_mes_up_epi
+AID				ARRY5X	ARRY6X	ARRY1X	ARRY2X	ARRY7X	ARRY8X	ARRY3X	ARRY4X
+EWEIGHT				1	1	1	1	1	1	1	1
+GENE10X	C0019209	Hepatomegaly	1	-0.000	-0.000	0.605	0.354	0.180	-0.000	-0.000	-0.000
+GENE20X	C2363741	HIV-1 infection	1	0.654	0.147	-0.000	-0.000	0.124	-0.000	-0.000	-0.000
+GENE2X	C3714514	Infection	1	0.942	0.283	0.118	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE18X	C0677607	Hashimoto Disease	1	0.606	0.103	0.107	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE6X	C0011603	Dermatitis	1	0.637	0.209	-0.000	-0.000	-0.000	0.122	-0.000	-0.000
+GENE12X	C1527336	Sjogren's Syndrome	1	0.699	0.181	-0.000	0.116	-0.000	-0.000	-0.000	-0.000
+GENE1X	C0079773	Lymphoma, T-Cell, Cutaneous	1	0.571	0.124	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE15X	C0026896	Myasthenia Gravis	1	0.656	0.134	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE19X	C0151449	Primary Sjögren's syndrome	1	1.000	0.218	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE3X	C0003872	Arthritis, Psoriatic	1	0.586	0.192	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE8X	C3495559	Juvenile arthritis	1	0.633	0.192	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE16X	C0011615	Dermatitis, Atopic	1	0.615	0.249	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE5X	C0024143	Lupus Nephritis	1	0.876	0.206	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE7X	C0375023	Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site	1	0.665	0.257	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE9X	C0004943	Behcet Syndrome	1	0.727	-0.000	-0.000	0.156	-0.000	-0.000	-0.000	-0.000
+GENE4X	C0036220	Kaposi Sarcoma	1	0.645	-0.000	0.119	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE13X	C0524909	Hepatitis B, Chronic	1	0.669	-0.000	0.124	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE17X	C0220597	Adult Hodgkin Lymphoma	1	0.737	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE11X	C0220644	Childhood Hodgkin Lymphoma	1	0.737	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000
+GENE14X	C0149678	Epstein-Barr Virus Infections	1	0.703	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000	-0.000

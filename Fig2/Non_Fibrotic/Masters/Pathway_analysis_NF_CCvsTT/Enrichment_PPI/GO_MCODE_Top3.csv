@@ -1,0 +1,55 @@
+Network,Annotation
+down_common_genes,GO:0009725|response to hormone|-10.9;GO:0006631|fatty acid metabolic process|-10.4;GO:0019752|carboxylic acid metabolic process|-10.0
+down_common_genes_MCODE_ALL,GO:0006631|fatty acid metabolic process|-11.5;GO:0032787|monocarboxylic acid metabolic process|-9.7;GO:0072329|monocarboxylic acid catabolic process|-9.4
+down_common_genes_SUB1_MCODE_1,GO:0006631|fatty acid metabolic process|-17.8;GO:0032787|monocarboxylic acid metabolic process|-15.9;GO:0019752|carboxylic acid metabolic process|-14.3
+down_common_genes_SUB1_MCODE_2,GO:0002181|cytoplasmic translation|-6.1;GO:0051098|regulation of binding|-5.3;GO:0006412|translation|-4.7
+down_common_genes_SUB1_MCODE_3,GO:0019646|aerobic electron transport chain|-6.6;GO:0042775|mitochondrial ATP synthesis coupled electron transport|-6.5;GO:0042773|ATP synthesis coupled electron transport|-6.5
+down_common_genes_SUB1_MCODE_4,R-HSA-9617828|FOXO-mediated transcription of cell cycle genes|-9.8;M136|PID FOXO PATHWAY|-8.4;R-HSA-9614085|FOXO-mediated transcription|-8.0
+down_epi_only,GO:1901615|organic hydroxy compound metabolic process|-12.1;GO:0044283|small molecule biosynthetic process|-10.7;GO:0019752|carboxylic acid metabolic process|-9.8
+down_epi_only_MCODE_ALL,WP430|Statin inhibition of cholesterol production|-11.3;GO:0044283|small molecule biosynthetic process|-10.3;hsa04979|Cholesterol metabolism|-9.9
+down_epi_only_SUB1_MCODE_1,hsa04979|Cholesterol metabolism|-16.8;WP5304|Cholesterol metabolism|-15.8;GO:0034369|plasma lipoprotein particle remodeling|-14.3
+down_epi_only_SUB1_MCODE_2,GO:0006631|fatty acid metabolic process|-4.9;GO:0044283|small molecule biosynthetic process|-4.5;GO:0032787|monocarboxylic acid metabolic process|-4.3
+down_epi_only_SUB1_MCODE_3,"M5935|HALLMARK FATTY ACID METABOLISM|-9.1;hsa00280|Valine, leucine and isoleucine degradation|-7.8;WP3925|Amino acid metabolism|-7.0"
+down_epi_only_SUB1_MCODE_4,R-HSA-375276|Peptide ligand-binding receptors|-8.7;R-HSA-416476|G alpha (q) signalling events|-8.6;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-7.8
+down_epi_only_SUB1_MCODE_5,R-HSA-913709|O-linked glycosylation of mucins|-10.7;R-HSA-5173105|O-linked glycosylation|-9.8
+down_epi_only_SUB1_MCODE_6,GO:0006536|glutamate metabolic process|-8.5;GO:0009064|glutamine family amino acid metabolic process|-7.4;GO:0043648|dicarboxylic acid metabolic process|-7.0
+down_epi_only_SUB2_MCODE_7,hsa04530|Tight junction|-9.0;GO:0045216|cell-cell junction organization|-8.9;GO:0016338|calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules|-8.9
+down_epi_only_SUB1_MCODE_9,WP558|Complement and coagulation cascades|-8.2;WP3896|Dengue 2 interactions with complement and coagulation cascades|-8.2;hsa04610|Complement and coagulation cascades|-7.7
+down_mes_only,GO:0006325|chromatin organization|-10.0;GO:0051493|regulation of cytoskeleton organization|-7.9;GO:0048013|ephrin receptor signaling pathway|-7.5
+down_mes_only_MCODE_ALL,R-HSA-1852241|Organelle biogenesis and maintenance|-14.2;R-HSA-1368082|RORA activates gene expression|-11.1;R-HSA-400253|Circadian Clock|-10.0
+down_mes_only_SUB1_MCODE_1,WP2446|Retinoblastoma gene in cancer|-7.2;WP1403|AMP activated protein kinase signaling|-5.4;GO:0045913|positive regulation of carbohydrate metabolic process|-5.2
+down_mes_only_SUB1_MCODE_2,GO:0048013|ephrin receptor signaling pathway|-10.9;R-HSA-5620912|Anchoring of the basal body to the plasma membrane|-9.4;R-HSA-3928665|EPH-ephrin mediated repulsion of cells|-8.3
+down_mes_only_SUB1_MCODE_3,R-HSA-1368082|RORA activates gene expression|-16.4;R-HSA-400253|Circadian Clock|-13.2;R-HSA-1989781|PPARA activates gene expression|-12.1
+down_mes_up_epi,GO:0007420|brain development|-8.6;GO:0060322|head development|-8.2;GO:0030335|positive regulation of cell migration|-7.7
+down_mes_up_epi_MCODE_ALL,R-HSA-8951664|Neddylation|-7.7;R-HSA-983168|Antigen processing: Ubiquitination & Proteasome degradation|-7.3;R-HSA-983169|Class I MHC mediated antigen processing & presentation|-6.9
+down_mes_up_epi_SUB1_MCODE_1,R-HSA-8951664|Neddylation|-7.7;R-HSA-983168|Antigen processing: Ubiquitination & Proteasome degradation|-7.3;R-HSA-983169|Class I MHC mediated antigen processing & presentation|-6.9
+up_common_genes,R-HSA-1280215|Cytokine Signaling in Immune system|-38.1;R-HSA-449147|Signaling by Interleukins|-29.7;M5890|HALLMARK TNFA SIGNALING VIA NFKB|-28.6
+up_common_genes_MCODE_ALL,R-HSA-5688426|Deubiquitination|-35.5;R-HSA-1169091|Activation of NF-kappaB in B cells|-34.9;R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-33.5
+up_common_genes_SUB1_MCODE_1,R-HSA-5688426|Deubiquitination|-42.3;R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-41.4;R-HSA-5689880|Ub-specific processing proteases|-39.9
+up_common_genes_SUB1_MCODE_2,R-HSA-73887|Death Receptor Signaling|-16.1;M128|PID TNF PATHWAY|-12.9;R-HSA-5357905|Regulation of TNFR1 signaling|-12.8
+up_common_genes_SUB1_MCODE_3,hsa04820|Cytoskeleton in muscle cells|-12.8;M18|PID INTEGRIN1 PATHWAY|-12.6;R-HSA-1474244|Extracellular matrix organization|-12.0
+up_common_genes_SUB1_MCODE_4,R-HSA-418594|G alpha (i) signalling events|-9.9;R-HSA-373076|Class A/1 (Rhodopsin-like receptors)|-9.8;R-HSA-500792|GPCR ligand binding|-9.1
+up_common_genes_SUB2_MCODE_7,GO:0009154|purine ribonucleotide catabolic process|-7.6;GO:0009261|ribonucleotide catabolic process|-7.5;GO:0006195|purine nucleotide catabolic process|-7.5
+up_epi_only,WP382|MAPK signaling pathway|-11.7;hsa04814|Motor proteins|-10.8;hsa04014|Ras signaling pathway|-9.7
+up_epi_only_MCODE_ALL,hsa04814|Motor proteins|-16.3;R-HSA-8856688|Golgi-to-ER retrograde transport|-15.7;R-HSA-109582|Hemostasis|-14.6
+up_epi_only_SUB1_MCODE_1,R-HSA-109582|Hemostasis|-15.0;R-HSA-983189|Kinesins|-12.5;hsa04814|Motor proteins|-11.4
+up_epi_only_SUB1_MCODE_2,R-HSA-6811436|COPI-independent Golgi-to-ER retrograde traffic|-8.3;R-HSA-3371497|HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand|-8.2;R-HSA-6807878|COPI-mediated anterograde transport|-7.4
+up_epi_only_SUB1_MCODE_3,R-HSA-3000178|ECM proteoglycans|-7.8;R-HSA-216083|Integrin cell surface interactions|-7.7;hsa04512|ECM-receptor interaction|-7.6
+up_mes_down_epi,M5924|HALLMARK MTORC1 SIGNALING|-24.4;hsa04141|Protein processing in endoplasmic reticulum|-20.4;GO:0034976|response to endoplasmic reticulum stress|-19.0
+up_mes_down_epi_MCODE_ALL,hsa04141|Protein processing in endoplasmic reticulum|-26.8;R-HSA-446203|Asparagine N-linked glycosylation|-18.9;M5924|HALLMARK MTORC1 SIGNALING|-16.1
+up_mes_down_epi_SUB1_MCODE_1,GO:0006487|protein N-linked glycosylation|-12.9;R-HSA-446203|Asparagine N-linked glycosylation|-11.1;hsa04141|Protein processing in endoplasmic reticulum|-10.6
+up_mes_down_epi_SUB1_MCODE_2,hsa04141|Protein processing in endoplasmic reticulum|-15.9;GO:0006457|protein folding|-14.9;GO:0034976|response to endoplasmic reticulum stress|-14.8
+up_mes_down_epi_SUB1_MCODE_3,GO:0016126|sterol biosynthetic process|-22.0;GO:0008203|cholesterol metabolic process|-21.8;GO:1902652|secondary alcohol metabolic process|-21.5
+up_mes_down_epi_SUB1_MCODE_4,GO:0045048|protein insertion into ER membrane|-11.3;GO:0051205|protein insertion into membrane|-10.6;GO:0160063|multi-pass transmembrane protein insertion into ER membrane|-9.7
+up_mes_down_epi_SUB1_MCODE_5,R-HSA-204005|COPII-mediated vesicle transport|-10.6;GO:0006888|endoplasmic reticulum to Golgi vesicle-mediated transport|-9.6;R-HSA-199977|ER to Golgi Anterograde Transport|-9.2
+up_mes_down_epi_SUB1_MCODE_6,GO:0061795|Golgi lumen acidification|-10.6;GO:0048388|endosomal lumen acidification|-10.1;GO:0097401|synaptic vesicle lumen acidification|-9.8
+up_mes_only,M5913|HALLMARK INTERFERON GAMMA RESPONSE|-22.2;GO:0009615|response to virus|-21.6;M5911|HALLMARK INTERFERON ALPHA RESPONSE|-21.3
+up_mes_only_MCODE_ALL,R-HSA-1280215|Cytokine Signaling in Immune system|-14.3;R-HSA-913531|Interferon Signaling|-14.0;R-HSA-909733|Interferon alpha/beta signaling|-11.4
+up_mes_only_SUB1_MCODE_1,GO:0006364|rRNA processing|-7.1;GO:0016072|rRNA metabolic process|-6.8;GO:0042254|ribosome biogenesis|-6.4
+up_mes_only_SUB1_MCODE_2,GO:0048193|Golgi vesicle transport|-8.9;R-HSA-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-8.4;R-HSA-6807878|COPI-mediated anterograde transport|-8.4
+up_mes_only_SUB1_MCODE_3,R-HSA-909733|Interferon alpha/beta signaling|-13.0;WP4197|Immune response to tuberculosis|-12.0;M5913|HALLMARK INTERFERON GAMMA RESPONSE|-10.9
+up_mes_only_SUB1_MCODE_4,R-HSA-5668541|TNFR2 non-canonical NF-kB pathway|-9.9;R-HSA-1280215|Cytokine Signaling in Immune system|-6.3;R-HSA-449147|Signaling by Interleukins|-4.8
+up_mes_only_SUB1_MCODE_5,R-HSA-159236|Transport of Mature mRNA derived from an Intron-Containing Transcript|-7.2;R-HSA-3108214|SUMOylation of DNA damage response and repair proteins|-7.2;R-HSA-72202|Transport of Mature Transcript to Cytoplasm|-7.1
+up_mes_only_SUB1_MCODE_6,R-HSA-72163|mRNA Splicing - Major Pathway|-6.5;R-HSA-72172|mRNA Splicing|-6.5;R-HSA-72203|Processing of Capped Intron-Containing Pre-mRNA|-6.1
+up_mes_only_SUB1_MCODE_7,"R-HSA-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-9.1;R-HSA-9705671|SARS-CoV-2 activates/modulates innate and adaptive immune responses|-7.2;R-HSA-9705683|SARS-CoV-2-host interactions|-6.5"
+up_mes_only_SUB1_MCODE_8,GO:1900182|positive regulation of protein localization to nucleus|-7.5;GO:1900180|regulation of protein localization to nucleus|-7.0;GO:0051098|regulation of binding|-6.3

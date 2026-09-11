@@ -1,0 +1,21 @@
+GO,Description,_LogP_down_common_genes,_LogP_down_epi_only,_LogP_down_mes_only,_LogP_down_mes_up_epi,_LogP_up_common_genes,_LogP_up_epi_only,_LogP_up_mes_down_epi,_LogP_up_mes_only
+PGB:00029,Tissue-specific: placenta,0.0,0.0,0.0,0.0,-4.017633003289143,0.0,0.0,0.0
+PGB:00071,Cell-specific: HUVEC,-2.111262219956228,0.0,-2.3919576012224657,0.0,-5.370269811518267,0.0,0.0,0.0
+PGB:00133,Cell-specific: Cardiac Myocytes,0.0,0.0,0.0,0.0,-12.172426563144906,0.0,0.0,-2.1152012398698936
+PGB:00081,Cell-specific: Brain cell,0.0,0.0,0.0,0.0,-4.990477431399209,0.0,0.0,-4.051794870261116
+PGB:00011,Tissue-specific: Smooth Muscle,0.0,0.0,0.0,-2.6359659528514077,-6.00269712217567,0.0,0.0,-5.20046334952317
+PGB:00132,Cell-specific: U138,0.0,0.0,-4.973115166428489,0.0,0.0,0.0,0.0,0.0
+PGB:00065,Cell-specific: DRG,0.0,0.0,-4.136044486299597,0.0,0.0,0.0,0.0,0.0
+PGB:00080,Cell-specific: Adipocyte,0.0,0.0,-5.144029131968023,0.0,0.0,0.0,0.0,0.0
+PGB:00014,Tissue-specific: lung,0.0,0.0,0.0,-3.4330380924866075,0.0,-4.946550888425178,0.0,0.0
+PGB:00008,Tissue-specific: spleen,0.0,0.0,0.0,-3.4262174017079494,0.0,-5.583972593624957,0.0,0.0
+PGB:00094,Cell-specific: Bronchial Epithelial Cells,0.0,0.0,0.0,-2.1946624192895885,0.0,-6.829135951542579,0.0,0.0
+PGB:00002,Tissue-specific: kidney,0.0,-11.470798990030241,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00060,Cell-specific: liver cell,0.0,-10.765622228727462,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00006,Tissue-specific: small intestine,0.0,-11.052393220027849,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00005,Tissue-specific: colon,0.0,-10.705304071897622,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00105,Cell-specific: huh-7,0.0,-6.906767431989452,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00038,Tissue-specific: Stomach,0.0,-3.797089371278356,0.0,0.0,0.0,0.0,0.0,0.0
+PGB:00139,Cell-specific: Renal Epithelial,0.0,-4.9196663426927625,0.0,0.0,0.0,-4.419021836010843,0.0,0.0
+PGB:00001,Tissue-specific: liver,-3.053106014076187,-29.845113290966108,0.0,0.0,0.0,-2.0360007942621707,0.0,0.0
+PGB:00058,Cell-specific: HEPG2,-4.601223858758511,-21.995441712384917,0.0,0.0,0.0,0.0,0.0,0.0
